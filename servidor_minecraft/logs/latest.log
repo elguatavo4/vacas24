@@ -2437,3 +2437,45 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 23:10:58.907] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [08Dec2024 23:11:02.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=74, z=1398} BlockPos{x=-464, y=74, z=1398}
 [08Dec2024 23:11:02.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=74, z=1398} BlockPos{x=-463, y=74, z=1399}
+[08Dec2024 23:16:48.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/127.189.178.52:43807] logged in with entity id 8922 at (598.3670177508992, 69.0, 480.4354135904504)
+[08Dec2024 23:16:48.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
+[08Dec2024 23:16:49.224] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/RootConnections$ConnectionLevel
+[08Dec2024 23:19:48.065] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[08Dec2024 23:19:55.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=454, y=87, z=261} BlockPos{x=454, y=86, z=261}
+[08Dec2024 23:19:56.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=454, y=83, z=261} BlockPos{x=454, y=82, z=261}
+[08Dec2024 23:19:56.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=454, y=81, z=261} BlockPos{x=454, y=82, z=261}
+[08Dec2024 23:20:01.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=454, y=70, z=261} BlockPos{x=454, y=69, z=261}
+[08Dec2024 23:20:01.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=454, y=68, z=261} BlockPos{x=454, y=69, z=261}
+[08Dec2024 23:23:41.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=442, y=-55, z=267} BlockPos{x=442, y=-56, z=267}
+[08Dec2024 23:23:41.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=442, y=-55, z=267} BlockPos{x=442, y=-56, z=267}
+[08Dec2024 23:27:58.281] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/api/treedata/TreePart$TreePartType
+[08Dec2024 23:27:58.318] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/entity/FallingTreeEntity$DestroyType
+[08Dec2024 23:27:58.322] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[08Dec2024 23:30:13.744] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[08Dec2024 23:31:43.504] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[08Dec2024 23:32:24.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _TaeV_ lost connection: Disconnected
+[08Dec2024 23:32:24.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ left the game
+[08Dec2024 23:33:57.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=85, z=1396} BlockPos{x=-461, y=85, z=1397}
+[08Dec2024 23:34:00.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=84, z=1394} BlockPos{x=-462, y=85, z=1394}
+[08Dec2024 23:34:08.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=83, z=1396} BlockPos{x=-460, y=83, z=1395}
+[08Dec2024 23:34:11.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=82, z=1391} BlockPos{x=-463, y=82, z=1391}
+[08Dec2024 23:34:32.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=78, z=1397} BlockPos{x=-461, y=79, z=1397}
+[08Dec2024 23:34:35.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[08Dec2024 23:34:35.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=78, z=1398} BlockPos{x=-461, y=79, z=1398}
+[08Dec2024 23:34:39.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to ist_shadow]
+[08Dec2024 23:34:52.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[08Dec2024 23:35:41.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=72, z=1398} BlockPos{x=-463, y=72, z=1398}
+[08Dec2024 23:36:29.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has completed the challenge [Cover Me in Debris]
+[08Dec2024 23:36:37.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=64, z=1398} BlockPos{x=-462, y=63, z=1398}
+[08Dec2024 23:37:42.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=64, z=1391} BlockPos{x=-445, y=63, z=1263}
+[08Dec2024 23:37:52.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-444, y=60, z=1262} BlockPos{x=-444, y=63, z=1259}
+[08Dec2024 23:37:55.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-444, y=60, z=1260} BlockPos{x=-446, y=61, z=1258}
+[08Dec2024 23:37:55.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-444, y=60, z=1260} BlockPos{x=-446, y=61, z=1259}
+[08Dec2024 23:37:57.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-446, y=59, z=1258} BlockPos{x=-447, y=60, z=1261}
+[08Dec2024 23:37:57.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-447, y=59, z=1261} BlockPos{x=-447, y=60, z=1260}
+[08Dec2024 23:37:58.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-447, y=59, z=1261} BlockPos{x=-446, y=60, z=1263}
+[08Dec2024 23:38:12.185] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[08Dec2024 23:38:28.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-447, y=59, z=1261} BlockPos{x=-433, y=61, z=1241}
+[08Dec2024 23:42:53.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[08Dec2024 23:43:00.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to ist_shadow]
+[08Dec2024 23:43:17.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
