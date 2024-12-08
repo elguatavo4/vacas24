@@ -2479,3 +2479,13 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [08Dec2024 23:42:53.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
 [08Dec2024 23:43:00.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to ist_shadow]
 [08Dec2024 23:43:17.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[08Dec2024 23:47:21.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=401, y=94, z=348} BlockPos{x=398, y=92, z=349}
+[08Dec2024 23:47:47.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=411, y=92, z=347} BlockPos{x=411, y=91, z=351}
+[08Dec2024 23:48:32.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=401, y=92, z=354} BlockPos{x=401, y=91, z=352}
+[08Dec2024 23:48:48.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=404, y=92, z=347} BlockPos{x=404, y=91, z=347}
+[08Dec2024 23:48:55.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=405, y=92, z=346} BlockPos{x=407, y=91, z=347}
+[08Dec2024 23:50:03.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/127.14.26.194:49147] logged in with entity id 26424 at (2562.46598650197, 291.0, 37.453615175953225)
+[08Dec2024 23:50:03.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[08Dec2024 23:50:18.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [A Seedy Place]
+[08Dec2024 23:52:53.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _TaeV_[/127.73.21.150:50153] logged in with entity id 29686 at (456.69999998807907, 103.0, 389.30000001192093)
+[08Dec2024 23:52:53.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ joined the game
