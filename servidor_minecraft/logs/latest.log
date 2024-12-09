@@ -60,3 +60,14 @@
 [09Dec2024 00:35:39.601] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1621, 64, -2223) minecraft:overworld
 [09Dec2024 00:35:58.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 has made the advancement [Crops of the Wild]
 [09Dec2024 00:36:00.330] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[09Dec2024 00:42:18.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ist_shadow lost connection: Disconnected
+[09Dec2024 00:42:18.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow left the game
+[09Dec2024 00:42:30.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/127.189.178.52:54661] logged in with entity id 63541 at (573.50621226933, 90.0, 322.6388240298225)
+[09Dec2024 00:42:30.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
+[09Dec2024 00:46:21.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was killed by ist_shadow using magic
+[09Dec2024 00:46:21.491] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(450, 88, 291) minecraft:overworld
+[09Dec2024 00:46:37.717] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[09Dec2024 00:46:45.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ist_shadow lost connection: Disconnected
+[09Dec2024 00:46:45.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow left the game
+[09Dec2024 00:47:02.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/127.189.178.52:39729] logged in with entity id 66558 at (451.61482932935155, 88.20075, 295.1979814793959)
+[09Dec2024 00:47:02.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
