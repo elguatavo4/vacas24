@@ -32,3 +32,19 @@
 [09Dec2024 00:15:17.599] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [09Dec2024 00:15:17.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ist_shadow> abdias
 [09Dec2024 00:15:49.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was killed by ist_shadow using magic
+[09Dec2024 00:19:43.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=409, y=92, z=360} BlockPos{x=401, y=82, z=317}
+[09Dec2024 00:20:11.268] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[09Dec2024 00:21:39.851] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49408, l='ServerLevel[world]', x=2025.25, y=194.01, z=208.44] died: Dinnerbone has left this dimension
+[09Dec2024 00:22:50.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Cave Spider
+[09Dec2024 00:22:50.806] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2011, 191, 194) minecraft:overworld
+[09Dec2024 00:23:50.854] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[09Dec2024 00:24:06.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51292, l='ServerLevel[world]', x=2008.70, y=194.01, z=187.30] died: Dinnerbone was shot by Dinnerbone
+[09Dec2024 00:24:13.502] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51579, l='ServerLevel[world]', x=2002.68, y=194.01, z=195.48] died: Dinnerbone was shot by Dinnerbone
+[09Dec2024 00:24:15.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Dinnerbone
+[09Dec2024 00:24:15.207] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2008, 190, 195) minecraft:overworld
+[09Dec2024 00:24:23.708] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[09Dec2024 00:24:50.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Cave Spider
+[09Dec2024 00:24:50.552] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2012, 190, 174) minecraft:overworld
+[09Dec2024 00:25:09.253] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[09Dec2024 00:25:26.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53326, l='ServerLevel[world]', x=2022.36, y=194.01, z=208.54] died: Dinnerbone was shot by Dinnerbone
+[09Dec2024 00:25:43.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53389, l='ServerLevel[world]', x=1999.24, y=194.01, z=190.68] died: Dinnerbone was slain by abdias_17

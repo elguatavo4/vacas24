@@ -5775,9 +5775,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2024-12-09 00:12:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_spruce_stairs": {
     "criteria": {
       "has_block": "2024-12-09 00:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-09 00:12:57 +0000"
     },
     "done": true
   },
