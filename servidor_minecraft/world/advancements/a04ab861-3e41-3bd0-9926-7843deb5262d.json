@@ -61,6 +61,7 @@
       "minecraft:jungle": "2024-12-03 16:45:32 +0000",
       "minecraft:warm_ocean": "2024-12-03 02:10:28 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 16:53:35 +0000",
+      "minecraft:frozen_peaks": "2024-12-08 23:53:23 +0000",
       "minecraft:deep_dark": "2024-12-03 16:28:58 +0000",
       "minecraft:meadow": "2024-12-03 15:25:13 +0000",
       "minecraft:savanna": "2024-12-03 00:13:00 +0000",
@@ -6600,6 +6601,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2024-12-07 23:34:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-08 23:55:48 +0000"
     },
     "done": true
   },
