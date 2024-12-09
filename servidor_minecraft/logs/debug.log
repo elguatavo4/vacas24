@@ -10512,3 +10512,54 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [09Dec2024 23:37:56.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0
 [09Dec2024 23:37:56.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1
 [09Dec2024 23:37:56.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0
+[09Dec2024 23:38:39.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 23:38:39.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 23:38:59.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dynamictrees:village/plains/town_centers/plains_meeting_point_3
+[09Dec2024 23:38:59.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[09Dec2024 23:39:16.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[09Dec2024 23:39:16.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[09Dec2024 23:39:16.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[09Dec2024 23:39:16.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[09Dec2024 23:39:16.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[09Dec2024 23:39:16.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[09Dec2024 23:39:16.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[09Dec2024 23:39:59.029] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaiderType
+[09Dec2024 23:39:59.033] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[09Dec2024 23:40:24.379] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[09Dec2024 23:40:36.092] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[09Dec2024 23:40:36.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> OTRA COSA TE RECOMIENDO HACER UNA MOCHILA
+[09Dec2024 23:40:49.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> yap
+[09Dec2024 23:40:56.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> buscalo el crafteo
+[09Dec2024 23:40:59.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> ahorita chekeo
+[09Dec2024 23:43:39.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 23:43:39.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 23:45:06.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=404, y=95, z=367} BlockPos{x=-461, y=65, z=1390}
+[09Dec2024 23:45:08.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=67, z=1391} BlockPos{x=-461, y=66, z=1390}
+[09Dec2024 23:45:18.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Monster Hunter]
+[09Dec2024 23:45:37.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=79, z=1392} BlockPos{x=-462, y=79, z=1393}
+[09Dec2024 23:45:45.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=82, z=1391} BlockPos{x=-462, y=83, z=1392}
+[09Dec2024 23:45:58.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=78, z=1395} BlockPos{x=-461, y=78, z=1394}
+[09Dec2024 23:46:01.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=79, z=1395} BlockPos{x=-462, y=79, z=1396}
+[09Dec2024 23:46:04.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=79, z=1398} BlockPos{x=-461, y=79, z=1395}
+[09Dec2024 23:46:07.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=81, z=1397} BlockPos{x=-461, y=80, z=1396}
+[09Dec2024 23:46:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Zombie
+[09Dec2024 23:46:08.601] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1446, 78, 91) minecraft:overworld
+[09Dec2024 23:46:09.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=82, z=1397} BlockPos{x=-461, y=83, z=1397}
+[09Dec2024 23:46:09.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=82, z=1398} BlockPos{x=-461, y=83, z=1398}
+[09Dec2024 23:46:12.603] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[09Dec2024 23:46:13.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> jaiajijai
+[09Dec2024 23:46:16.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=78, z=1398} BlockPos{x=-462, y=78, z=1399}
+[09Dec2024 23:46:17.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=77, z=1397} BlockPos{x=-463, y=75, z=1397}
+[09Dec2024 23:46:19.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=76, z=1398} BlockPos{x=-463, y=75, z=1398}
+[09Dec2024 23:46:19.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=76, z=1397} BlockPos{x=-463, y=75, z=1396}
+[09Dec2024 23:47:06.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> no se si el server esta lag o yo
+[09Dec2024 23:47:06.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Zombie
+[09Dec2024 23:47:20.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> estas con una varita
+[09Dec2024 23:47:32.018] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[09Dec2024 23:47:34.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> es tu inter
+[09Dec2024 23:47:47.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> lo cambia tofo
+[09Dec2024 23:48:03.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=66, z=1392} BlockPos{x=-460, y=66, z=1391}
+[09Dec2024 23:48:09.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> espera ahorita entro
+[09Dec2024 23:48:10.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer lost connection: Disconnected
+[09Dec2024 23:48:10.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer left the game
+[09Dec2024 23:48:30.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
