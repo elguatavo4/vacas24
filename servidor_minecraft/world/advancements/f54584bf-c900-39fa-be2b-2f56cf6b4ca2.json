@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:33:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-09 23:21:49 +0000"
@@ -113,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-12-09 23:19:17 +0000"
@@ -161,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-09 23:22:58 +0000"
@@ -188,6 +212,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 23:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
     },
     "done": true
   },
@@ -257,9 +287,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2024-12-09 23:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
     },
     "done": true
   },
@@ -329,9 +371,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:33:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
     "criteria": {
       "cooked_chicken_cuts": "2024-12-09 23:21:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
     },
     "done": true
   },
@@ -368,6 +422,12 @@
   "securitycraft:recipes/misc/keycard_lv2": {
     "criteria": {
       "has_iron": "2024-12-09 23:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
     },
     "done": true
   },
@@ -437,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:33:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-09 23:17:52 +0000"
@@ -458,6 +524,18 @@
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-09 23:13:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:33:32 +0000"
     },
     "done": true
   },
@@ -503,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-09 23:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-12-09 23:11:30 +0000"
@@ -530,6 +614,12 @@
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2024-12-09 23:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-09 23:32:06 +0000"
     },
     "done": true
   },
@@ -572,6 +662,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-09 23:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 23:29:28 +0000"
     },
     "done": true
   },
@@ -683,15 +779,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-09 23:27:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2024-12-09 23:19:17 +0000"
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-09 23:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 23:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:33:32 +0000"
     },
     "done": true
   },
@@ -704,6 +818,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-09 23:19:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
     },
     "done": true
   },
@@ -779,6 +899,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2024-12-09 23:09:21 +0000"
@@ -833,9 +959,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2024-12-09 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:33:32 +0000"
     },
     "done": true
   },
@@ -848,6 +992,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 23:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:33:32 +0000"
     },
     "done": true
   },
@@ -923,6 +1073,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-09 23:13:51 +0000"
@@ -944,6 +1106,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-09 23:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:33:32 +0000"
     },
     "done": true
   },
@@ -992,6 +1160,18 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-09 23:19:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-09 23:24:53 +0000"
     },
     "done": true
   },
@@ -1058,6 +1238,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2024-12-09 23:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-09 23:33:32 +0000"
     },
     "done": true
   },
@@ -1133,6 +1319,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-09 23:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-09 23:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2024-12-09 23:12:01 +0000",
@@ -1157,6 +1355,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2024-12-09 23:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-09 23:32:06 +0000"
     },
     "done": true
   },

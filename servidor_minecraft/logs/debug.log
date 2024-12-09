@@ -10437,3 +10437,78 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [09Dec2024 23:27:37.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Summoned new Mutant Creeper]
 [09Dec2024 23:27:41.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
 [09Dec2024 23:27:49.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Isn't It Iron Pick]
+[09Dec2024 23:28:36.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[09Dec2024 23:28:36.889] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[09Dec2024 23:28:39.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 23:28:39.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 23:28:51.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=601, y=98, z=300} BlockPos{x=599, y=92, z=301}
+[09Dec2024 23:28:59.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ghost
+[09Dec2024 23:28:59.739] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(611, 104, 332) minecraft:overworld
+[09Dec2024 23:29:01.104] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[09Dec2024 23:29:32.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ghost
+[09Dec2024 23:29:32.637] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(577, 102, 302) minecraft:overworld
+[09Dec2024 23:29:34.193] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[09Dec2024 23:30:23.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[09Dec2024 23:30:23.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[09Dec2024 23:30:23.665] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0
+[09Dec2024 23:30:23.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_4
+[09Dec2024 23:30:23.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0
+[09Dec2024 23:30:23.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_husk_0
+[09Dec2024 23:30:23.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[09Dec2024 23:30:23.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[09Dec2024 23:30:23.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_5
+[09Dec2024 23:30:23.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_7
+[09Dec2024 23:30:23.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_6
+[09Dec2024 23:31:10.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[09Dec2024 23:31:44.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Ghost
+[09Dec2024 23:31:44.990] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(459, 87, 256) minecraft:overworld
+[09Dec2024 23:31:46.392] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[09Dec2024 23:33:39.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 23:33:39.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 23:35:45.918] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[09Dec2024 23:35:45.919] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[09Dec2024 23:35:45.930] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[09Dec2024 23:35:45.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[09Dec2024 23:35:45.961] [Server thread/DEBUG] [mixin/]: Mixing optimizations.sync_loads.SleepInBedMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.SleepInBed
+[09Dec2024 23:35:45.962] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:optimizations.sync_loads.SleepInBedMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[09Dec2024 23:35:45.979] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.VillagerMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[09Dec2024 23:35:45.979] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.VillagerMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[09Dec2024 23:35:46.000] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[09Dec2024 23:35:46.017] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[09Dec2024 23:35:50.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[09Dec2024 23:36:06.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[09Dec2024 23:36:08.857] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Dec2024 23:36:08.859] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Dec2024 23:36:08.985] [Worker-Main-3/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[09Dec2024 23:36:09.172] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Dec2024 23:36:09.452] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[09Dec2024 23:36:10.169] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[09Dec2024 23:36:10.262] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/worldgen/DynamicTreeFeature$GeneratorResult
+[09Dec2024 23:36:12.245] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[09Dec2024 23:36:12.246] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[09Dec2024 23:36:12.250] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[09Dec2024 23:36:14.048] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[09Dec2024 23:36:21.026] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-940, y=71, z=455}
+[09Dec2024 23:36:21.026] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[09Dec2024 23:36:21.026] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 5
+[09Dec2024 23:36:21.026] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxxOOOPXfy+vj+SM+tx68mPmXnbeZP1N8nWSRJx89tJ
+[09Dec2024 23:36:36.298] [Worker-Main-2/DEBUG] [mixin/]: Mixing IMixinJigsawPlacement from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[09Dec2024 23:36:36.299] [Worker-Main-2/DEBUG] [mixin/]: Renaming @Invoker method invokeAddPieces(Lnet/minecraft/world/level/levelgen/RandomState;IZLnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/util/RandomSource;Lnet/minecraft/core/Registry;Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Ljava/util/List;Lnet/minecraft/world/phys/shapes/VoxelShape;)V to invokeAddPieces_$md$7971ef$0 in witherstormmod.mixins.json:IMixinJigsawPlacement
+[09Dec2024 23:36:39.096] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1262, y=94, z=548}
+[09Dec2024 23:36:39.096] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:cherry}
+[09Dec2024 23:36:39.096] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[09Dec2024 23:36:39.097] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJxxxyxJ6nhnzeOOPvk7z99uJfyXvkx8+dtx9uPfSRx6
+[09Dec2024 23:36:45.200] [Server thread/DEBUG] [mixin/]: Mixing features.breeding_cap.tasks.AnimalMakeLoveMixin from servercore.common.mixins.json into net.minecraft.world.entity.ai.behavior.AnimalMakeLove
+[09Dec2024 23:36:45.201] [Server thread/DEBUG] [mixin/]: servercore.common.mixins.json:features.breeding_cap.tasks.AnimalMakeLoveMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[09Dec2024 23:37:18.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15180, l='ServerLevel[world]', x=-1079.26, y=65.93, z=208.00]
+[09Dec2024 23:37:18.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15181, l='ServerLevel[world]', x=-1076.74, y=65.35, z=207.90]
+[09Dec2024 23:37:18.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15185, l='ServerLevel[world]', x=-1077.96, y=68.79, z=207.91]
+[09Dec2024 23:37:18.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15186, l='ServerLevel[world]', x=-1076.37, y=67.21, z=207.87]
+[09Dec2024 23:37:18.089] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15187, l='ServerLevel[world]', x=-1077.98, y=73.49, z=207.92]
+[09Dec2024 23:37:56.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[09Dec2024 23:37:56.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_dolphin_rider_0
+[09Dec2024 23:37:56.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[09Dec2024 23:37:56.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0
+[09Dec2024 23:37:56.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0
+[09Dec2024 23:37:56.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1
+[09Dec2024 23:37:56.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0
