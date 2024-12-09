@@ -2845,3 +2845,21 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [09Dec2024 23:48:10.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer lost connection: Disconnected
 [09Dec2024 23:48:10.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer left the game
 [09Dec2024 23:48:30.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[09Dec2024 23:48:43.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[09Dec2024 23:48:52.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[09Dec2024 23:49:07.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[09Dec2024 23:49:15.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[09Dec2024 23:49:28.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[09Dec2024 23:49:37.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! 0.979802136460421,-9.439371610064711,-6.4154875971750585
+[09Dec2024 23:51:25.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crisogamaer[/127.33.222.185:47823] logged in with entity id 24680 at (-1426.5, 52.0, 176.5)
+[09Dec2024 23:51:25.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer joined the game
+[09Dec2024 23:51:41.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[09Dec2024 23:52:02.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[09Dec2024 23:52:18.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[09Dec2024 23:52:24.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[09Dec2024 23:52:26.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[09Dec2024 23:52:42.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[09Dec2024 23:52:51.973] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/block/branch/ThickBranchBlock$ReplaceableState
+[09Dec2024 23:54:10.142] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictreesplus/systems/mushroomlogic/shapekits/BellShape$ringAction
+[09Dec2024 23:55:52.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=411, y=92, z=364} BlockPos{x=402, y=93, z=369}
+[09Dec2024 23:57:39.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=437, y=98, z=412} BlockPos{x=436, y=97, z=412}
