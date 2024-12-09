@@ -71,3 +71,36 @@
 [09Dec2024 00:46:45.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow left the game
 [09Dec2024 00:47:02.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/127.189.178.52:39729] logged in with entity id 66558 at (451.61482932935155, 88.20075, 295.1979814793959)
 [09Dec2024 00:47:02.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
+[09Dec2024 00:48:01.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=422, y=91, z=345} BlockPos{x=423, y=91, z=345}
+[09Dec2024 00:48:02.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ist_shadow lost connection: Disconnected
+[09Dec2024 00:48:02.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow left the game
+[09Dec2024 00:48:10.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/127.189.178.52:47563] logged in with entity id 66962 at (424.7798610970166, 92.0, 347.13327588141664)
+[09Dec2024 00:48:10.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
+[09Dec2024 00:48:15.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow was slain by elguatavo7u7159 using [Espada congelada de hueso de dragon]
+[09Dec2024 00:48:15.138] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(423, 92, 347) minecraft:overworld
+[09Dec2024 00:48:22.808] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[09Dec2024 00:51:19.548] [Worker-Main-2/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Rooty Dirt block NOT FOUND for soil minecraft:seagrass
+[09Dec2024 00:53:32.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Disconnected
+[09Dec2024 00:53:32.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[09Dec2024 00:53:48.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: abdias_17[/127.14.26.194:52207] logged in with entity id 71862 at (414.81026317541836, 92.0, 356.19240138239803)
+[09Dec2024 00:53:48.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 joined the game
+[09Dec2024 00:54:18.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Dec2024 00:54:19.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Dec2024 00:54:19.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Dec2024 00:54:19.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _TaeV_ lost connection: Server closed
+[09Dec2024 00:54:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ left the game
+[09Dec2024 00:54:19.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Server closed
+[09Dec2024 00:54:19.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[09Dec2024 00:54:19.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Dec2024 00:54:21.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Dec2024 00:54:23.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Dec2024 00:54:23.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Dec2024 00:54:23.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[09Dec2024 00:54:23.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[09Dec2024 00:54:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Dec2024 00:54:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Dec2024 00:54:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Dec2024 00:54:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[09Dec2024 00:54:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[09Dec2024 00:54:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Dec2024 00:54:23.300] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
