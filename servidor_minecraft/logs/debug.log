@@ -10811,3 +10811,40 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [10Dec2024 00:18:39.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 00:18:48.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Book of Monsters]
 [10Dec2024 00:18:59.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Would you Like to Know More?]
+[10Dec2024 00:20:05.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[10Dec2024 00:22:50.611] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[10Dec2024 00:22:50.613] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[10Dec2024 00:22:50.613] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[10Dec2024 00:22:50.870] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1566, y=103, z=-289}
+[10Dec2024 00:22:50.870] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:birch}
+[10Dec2024 00:22:50.870] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 5
+[10Dec2024 00:22:50.870] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJxxOOJxOP0+vXz1PZ6717+kxPnXWtJOL+vXWK8hX1tpfbbx8
+[10Dec2024 00:22:51.245] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[10Dec2024 00:22:55.783] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[10Dec2024 00:22:58.510] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[10Dec2024 00:22:58.510] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[10Dec2024 00:22:58.511] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[10Dec2024 00:22:58.676] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[10Dec2024 00:22:58.677] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[10Dec2024 00:22:58.677] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[10Dec2024 00:22:58.677] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[10Dec2024 00:23:10.722] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1112, y=94, z=-87}
+[10Dec2024 00:23:10.722] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[10Dec2024 00:23:10.722] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 8
+[10Dec2024 00:23:10.722] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJxOOOOPzfyV9ufXkzevmfnUy89ubvtXzerzd9rvjfyUWS188ii8mczb8k6kXzerrrznt8bbc+StSqy9vttv
+[10Dec2024 00:23:34.576] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1032, y=100, z=-186}
+[10Dec2024 00:23:34.576] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:dark_oak}
+[10Dec2024 00:23:34.576] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 8
+[10Dec2024 00:23:34.576] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJJOOJxfyXkXzerfmbj8+S1qXiU8mXjntzzefvtdz96uSy99r
+[10Dec2024 00:23:39.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 00:23:39.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 00:25:31.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39323, l='ServerLevel[world]', x=-1395.47, y=124.62, z=-256.22] died, message: 'Villager was slain by Fire Dragon'
+[10Dec2024 00:25:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[10Dec2024 00:26:20.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was shot by Skeleton
+[10Dec2024 00:26:20.638] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1428, 52, 178) minecraft:overworld
+[10Dec2024 00:26:22.258] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[10Dec2024 00:27:26.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Sweet Dreams]
+[10Dec2024 00:27:26.091] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[10Dec2024 00:28:39.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 00:28:39.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 00:29:12.141] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context

@@ -14,3 +14,23 @@
 [10Dec2024 00:17:42.793] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [10Dec2024 00:18:48.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Book of Monsters]
 [10Dec2024 00:18:59.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Would you Like to Know More?]
+[10Dec2024 00:20:05.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[10Dec2024 00:22:50.611] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[10Dec2024 00:22:50.613] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[10Dec2024 00:22:50.613] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[10Dec2024 00:22:51.245] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[10Dec2024 00:22:55.783] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[10Dec2024 00:22:58.510] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[10Dec2024 00:22:58.510] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[10Dec2024 00:22:58.511] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[10Dec2024 00:22:58.676] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[10Dec2024 00:22:58.677] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[10Dec2024 00:22:58.677] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[10Dec2024 00:22:58.677] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[10Dec2024 00:25:31.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39323, l='ServerLevel[world]', x=-1395.47, y=124.62, z=-256.22] died, message: 'Villager was slain by Fire Dragon'
+[10Dec2024 00:25:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[10Dec2024 00:26:20.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was shot by Skeleton
+[10Dec2024 00:26:20.638] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1428, 52, 178) minecraft:overworld
+[10Dec2024 00:27:26.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Sweet Dreams]
+[10Dec2024 00:27:26.091] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[10Dec2024 00:29:12.141] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
