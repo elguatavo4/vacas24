@@ -50,6 +50,8 @@
       "minecraft:dripstone_caves": "2024-12-10 00:25:34 +0000",
       "minecraft:forest": "2024-12-09 23:20:06 +0000",
       "minecraft:lush_caves": "2024-12-10 00:25:21 +0000",
+      "minecraft:desert": "2024-12-10 00:57:24 +0000",
+      "minecraft:warm_ocean": "2024-12-10 00:55:10 +0000",
       "minecraft:flower_forest": "2024-12-09 23:35:48 +0000",
       "minecraft:frozen_peaks": "2024-12-09 23:53:55 +0000",
       "minecraft:deep_dark": "2024-12-09 23:55:55 +0000",
@@ -2341,6 +2343,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2024-12-10 00:57:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-09 23:53:09 +0000"
@@ -2539,6 +2547,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2024-12-10 00:50:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-10 00:20:31 +0000"
@@ -2674,6 +2688,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-09 23:52:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-12-10 00:51:01 +0000"
     },
     "done": true
   },

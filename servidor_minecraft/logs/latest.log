@@ -87,3 +87,115 @@
 [10Dec2024 00:50:15.089] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90207, 59, -116) minecraft:overworld
 [10Dec2024 00:50:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Skelewag
 [10Dec2024 00:50:25.443] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90209, 58, -116) minecraft:overworld
+[10Dec2024 00:50:37.988] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:50:40.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was struck with lightning by Lightning Dragon
+[10Dec2024 00:50:40.547] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90207, 59, -116) minecraft:overworld
+[10Dec2024 00:50:49.841] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:50:50.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [A Bone to Pick]
+[10Dec2024 00:51:01.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [We Just Want our Hat Back]
+[10Dec2024 00:51:01.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Skelewag
+[10Dec2024 00:51:01.987] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90206, 55, -117) minecraft:overworld
+[10Dec2024 00:51:13.248] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:51:23.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Skelewag
+[10Dec2024 00:51:23.890] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90203, 57, -149) minecraft:overworld
+[10Dec2024 00:51:31.888] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:51:35.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Skelewag
+[10Dec2024 00:51:35.494] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90197, 63, -150) minecraft:overworld
+[10Dec2024 00:51:44.244] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:51:49.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Skelewag
+[10Dec2024 00:51:49.147] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90199, 66, -153) minecraft:overworld
+[10Dec2024 00:51:56.793] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:52:32.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Lightning Dragon
+[10Dec2024 00:52:32.494] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90128, 70, -182) minecraft:overworld
+[10Dec2024 00:52:44.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Zombie
+[10Dec2024 00:52:52.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was struck with lightning by Lightning Dragon
+[10Dec2024 00:52:52.537] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90128, 70, -183) minecraft:overworld
+[10Dec2024 00:53:11.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Zombie
+[10Dec2024 00:53:37.491] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:53:39.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was struck with lightning by Lightning Dragon
+[10Dec2024 00:53:39.086] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90132, 70, -183) minecraft:overworld
+[10Dec2024 00:53:51.643] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:54:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was struck with lightning by Lightning Dragon
+[10Dec2024 00:54:13.487] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90156, 79, -265) minecraft:overworld
+[10Dec2024 00:54:25.088] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:55:09.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[10Dec2024 00:55:35.741] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[10Dec2024 00:55:53.881] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[10Dec2024 00:56:27.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:56:56.691] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:57:11.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Sea Serpent
+[10Dec2024 00:57:11.638] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998261, 57, -254) minecraft:overworld
+[10Dec2024 00:57:22.288] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:57:29.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was blown up by Death Worm
+[10Dec2024 00:57:29.395] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998230, 63, -253) minecraft:overworld
+[10Dec2024 00:57:39.501] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:57:55.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Rigged from the Start]
+[10Dec2024 00:58:02.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was blown up by Death Worm
+[10Dec2024 00:58:02.688] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998168, 63, -229) minecraft:overworld
+[10Dec2024 00:58:20.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was blown up by Death Worm
+[10Dec2024 00:58:37.239] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:58:37.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:37.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:38.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:38.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:38.284] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:38.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:38.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:38.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:38.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:38.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:38.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:38.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:39.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:39.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:39.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:39.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:39.503] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:39.591] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:39.693] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:39.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:39.901] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:39.995] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:40.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:40.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:40.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:40.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:40.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:40.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:40.691] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:40.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:40.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:40.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:41.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:41.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:41.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:41.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:41.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:41.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:41.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:41.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:41.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:41.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:42.096] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:42.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:42.288] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:42.389] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:42.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:42.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:42.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:42.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:42.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:42.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:43.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:43.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:43.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:58:43.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:59:05.580] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[10Dec2024 00:59:21.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [No Step on Snake]
+[10Dec2024 00:59:23.735] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:59:24.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:59:26.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:59:27.535] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 00:59:36.974] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[10Dec2024 01:00:38.374] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1071}
+[10Dec2024 01:00:38.374] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1070}
