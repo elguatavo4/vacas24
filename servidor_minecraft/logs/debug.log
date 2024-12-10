@@ -10775,3 +10775,39 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [09Dec2024 23:57:39.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=437, y=98, z=412} BlockPos{x=436, y=97, z=412}
 [09Dec2024 23:58:39.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Dec2024 23:58:39.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 23:59:59.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Suit Up]
+[10Dec2024 00:03:26.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Diamonds!]
+[10Dec2024 00:03:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Spectator Mode]
+[10Dec2024 00:03:35.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Teleported elguatavo7u7159 to Crisogamaer]
+[10Dec2024 00:03:39.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 00:03:39.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 00:04:19.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[10Dec2024 00:05:11.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Sneak 100]
+[10Dec2024 00:06:01.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Zombie
+[10Dec2024 00:06:01.541] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1349, -10, -58) minecraft:overworld
+[10Dec2024 00:06:03.053] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[10Dec2024 00:06:21.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was shot by Skeleton
+[10Dec2024 00:06:21.741] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1349, -25, -24) minecraft:overworld
+[10Dec2024 00:06:23.156] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[10Dec2024 00:06:38.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> bro wtf con los esqueletos
+[10Dec2024 00:08:39.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 00:08:39.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 00:12:45.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was shot by Skeleton
+[10Dec2024 00:12:45.293] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1393, 87, 260) minecraft:overworld
+[10Dec2024 00:12:46.628] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[10Dec2024 00:13:39.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 00:13:39.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 00:13:43.400] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1642, y=151, z=529}
+[10Dec2024 00:13:43.401] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
+[10Dec2024 00:13:43.401] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[10Dec2024 00:13:43.401] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJxOJxPX1178+t1+Xf0mnfyS7evf1uvXy0mnXWvU70mnfet7n
+[10Dec2024 00:13:55.805] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1727, y=130, z=530}
+[10Dec2024 00:13:55.805] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[10Dec2024 00:13:55.805] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 6
+[10Dec2024 00:13:55.805] [Worker-Main-3/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOKxx1+eNf0768nWnX0kxx6Xb+uuJx791PZ6XbxL+n1pff
+[10Dec2024 00:17:07.190] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37340, l='ServerLevel[world]', x=-1499.57, y=111.00, z=18.80] died, message: 'Villager hit the ground too hard'
+[10Dec2024 00:17:42.793] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[10Dec2024 00:18:39.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 00:18:39.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 00:18:48.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Book of Monsters]
+[10Dec2024 00:18:59.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Would you Like to Know More?]
