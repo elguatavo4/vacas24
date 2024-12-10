@@ -2842,5 +2842,17 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-10 23:46:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-10 23:49:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

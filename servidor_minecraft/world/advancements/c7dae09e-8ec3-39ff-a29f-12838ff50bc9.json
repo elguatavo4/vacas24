@@ -472,6 +472,7 @@
     "criteria": {
       "pumpkin_pie": "2024-12-01 02:46:25 +0000",
       "bread": "2024-12-01 03:13:10 +0000",
+      "melon_slice": "2024-12-10 23:47:56 +0000",
       "carrot": "2024-12-01 02:46:13 +0000"
     },
     "done": false
@@ -1098,7 +1099,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2024-12-01 03:06:51 +0000"
+      "wheat": "2024-12-01 03:06:51 +0000",
+      "carrot": "2024-12-10 23:50:39 +0000"
     },
     "done": false
   },
@@ -1855,6 +1857,42 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-01 19:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-10 23:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-10 23:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 23:45:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 23:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 23:45:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-10 23:45:17 +0000"
     },
     "done": true
   },
