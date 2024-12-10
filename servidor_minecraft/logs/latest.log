@@ -66,3 +66,24 @@
 [10Dec2024 00:39:39.637] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-89905, 63, 129) minecraft:overworld
 [10Dec2024 00:39:48.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Sea Serpent
 [10Dec2024 00:39:55.941] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:40:51.289] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[10Dec2024 00:43:02.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was energized by Lightning Dragon
+[10Dec2024 00:43:02.840] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-89827, 76, -344) minecraft:overworld
+[10Dec2024 00:43:10.492] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:43:18.570] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[10Dec2024 00:43:41.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was struck with lightning by Lightning Dragon
+[10Dec2024 00:43:41.140] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-89886, 76, -374) minecraft:overworld
+[10Dec2024 00:43:55.839] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:44:37.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Lightning Dragon
+[10Dec2024 00:44:37.689] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-89944, 75, -354) minecraft:overworld
+[10Dec2024 00:44:53.643] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[10Dec2024 00:46:21.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Skelewag
+[10Dec2024 00:46:21.702] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90208, 59, -116) minecraft:overworld
+[10Dec2024 00:46:50.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> bro me manipularon unas sirenas :(
+[10Dec2024 00:47:00.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Skelewag
+[10Dec2024 00:50:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Skelewag
+[10Dec2024 00:50:01.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90207, 59, -116) minecraft:overworld
+[10Dec2024 00:50:15.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was struck with lightning by Lightning Dragon
+[10Dec2024 00:50:15.089] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90207, 59, -116) minecraft:overworld
+[10Dec2024 00:50:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Skelewag
+[10Dec2024 00:50:25.443] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-90209, 58, -116) minecraft:overworld
