@@ -2493,6 +2493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-10 01:10:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-10 00:35:22 +0000"
@@ -2636,6 +2642,12 @@
       "has_stone_types_andesite": "2024-12-09 23:53:09 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-10 01:10:57 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {

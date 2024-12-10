@@ -199,3 +199,14 @@
 [10Dec2024 00:59:36.974] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
 [10Dec2024 01:00:38.374] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1071}
 [10Dec2024 01:00:38.374] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1070}
+[10Dec2024 01:11:45.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer lost connection: Disconnected
+[10Dec2024 01:11:45.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer left the game
+[10Dec2024 01:12:35.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/127.150.167.254:43769] logged in with entity id 82292 at (465.5, 87.0, 233.5)
+[10Dec2024 01:12:35.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[10Dec2024 01:16:34.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=456, y=90, z=270} BlockPos{x=457, y=86, z=260}
+[10Dec2024 01:18:35.434] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Network error in:packet_handler for player:literal{}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell ThiaguitoOwO2021 '},hoverEvent=HoverEvent{action=<action show_entity>, value='net.minecraft.network.chat.HoverEvent$EntityTooltipInfo@bcc20e39'},insertion=ThiaguitoOwO2021}, siblings=[literal{ThiaguitoOwO2021}]]
+io.netty.handler.timeout.ReadTimeoutException: null
+[10Dec2024 01:19:16.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiaguitoOwO2021 lost connection: Timed out
+[10Dec2024 01:19:16.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 left the game
+[10Dec2024 01:19:16.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/127.150.167.254:56197] logged in with entity id 83653 at (465.5, 87.0, 233.5)
+[10Dec2024 01:19:16.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
