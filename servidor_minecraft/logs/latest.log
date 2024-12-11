@@ -185,3 +185,73 @@
 [11Dec2024 01:10:30.797] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
 [11Dec2024 01:10:33.842] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [11Dec2024 01:10:33.842] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[11Dec2024 01:11:30.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has reached the goal [The Cave That Time Forgot]
+[11Dec2024 01:11:34.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 has made the advancement [Eye of The Storm]
+[11Dec2024 01:11:36.737] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[11Dec2024 01:11:36.738] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[11Dec2024 01:11:36.743] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[11Dec2024 01:12:18.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Life Finds A Way]
+[11Dec2024 01:12:23.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Re-Extinct]
+[11Dec2024 01:13:33.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2409, y=-26, z=104} BlockPos{x=2407, y=-27, z=109}
+[11Dec2024 01:14:09.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:40245] logged in with entity id 91642 at (2009.6353113839593, 0.0, 212.4631877084372)
+[11Dec2024 01:14:09.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[11Dec2024 01:14:14.546] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[11Dec2024 01:15:40.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Tastes Like Chicken]
+[11Dec2024 01:15:52.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Diamonds!]
+[11Dec2024 01:16:04.366] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[11Dec2024 01:16:15.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Swaggy Meal Mommy Made It]
+[11Dec2024 01:16:24.172] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[11Dec2024 01:17:14.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 01:17:16.784] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 01:17:19.180] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 01:17:20.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 01:18:35.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Diamonds!]
+[11Dec2024 01:18:41.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2246, y=20, z=39} BlockPos{x=2247, y=21, z=39}
+[11Dec2024 01:18:41.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2247, y=17, z=39} BlockPos{x=2248, y=18, z=39}
+[11Dec2024 01:18:41.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2247, y=16, z=39} BlockPos{x=2248, y=18, z=39}
+[11Dec2024 01:20:51.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2245, y=27, z=41} BlockPos{x=2222, y=-25, z=84}
+[11Dec2024 01:20:51.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2245, y=27, z=41} BlockPos{x=2222, y=-25, z=83}
+[11Dec2024 01:20:53.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was shot by Skeleton
+[11Dec2024 01:20:53.549] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998137, 5, 148) minecraft:overworld
+[11Dec2024 01:21:05.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was shot by Skeleton
+[11Dec2024 01:22:32.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2326, y=-34, z=230} BlockPos{x=2375, y=-36, z=239}
+[11Dec2024 01:22:34.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 was shot by Mutant Skeleton
+[11Dec2024 01:22:34.752] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998251, 69, 227) minecraft:overworld
+[11Dec2024 01:23:06.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 was shot by Mutant Skeleton
+[11Dec2024 01:23:06.941] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998255, 68, 226) minecraft:overworld
+[11Dec2024 01:23:20.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has reached the goal [Suspicious Looking Item]
+[11Dec2024 01:24:07.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [The Beginning of the End]
+[11Dec2024 01:24:07.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [The Beginning of the End]
+[11Dec2024 01:24:53.114] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[11Dec2024 01:24:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Cover Me with Diamonds]
+[11Dec2024 01:25:28.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 was shot by Mutant Skeleton
+[11Dec2024 01:25:28.313] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998250, 70, 226) minecraft:overworld
+[11Dec2024 01:25:34.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has reached the goal [Prehistoric Elytra]
+[11Dec2024 01:25:34.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Best Friends Forever]
+[11Dec2024 01:25:47.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2292, y=-31, z=260} BlockPos{x=2292, y=-30, z=260}
+[11Dec2024 01:25:47.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2292, y=-31, z=260} BlockPos{x=2292, y=-30, z=260}
+[11Dec2024 01:25:47.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2292, y=-29, z=261} BlockPos{x=2292, y=-30, z=260}
+[11Dec2024 01:26:12.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Town of Bedrock]
+[11Dec2024 01:26:31.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has completed the challenge [The End... of the Beginning]
+[11Dec2024 01:26:33.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Town of Bedrock]
+[11Dec2024 01:26:35.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _TaeV_ lost connection: Disconnected
+[11Dec2024 01:26:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ left the game
+[11Dec2024 01:26:36.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2313, y=-37, z=272} BlockPos{x=2312, y=-37, z=272}
+[11Dec2024 01:26:37.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2313, y=-37, z=272} BlockPos{x=2312, y=-37, z=272}
+[11Dec2024 01:27:00.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _TaeV_[/127.73.21.150:41129] logged in with entity id 108031 at (2316.300000011921, -41.0, 264.30000001192093)
+[11Dec2024 01:27:00.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ joined the game
+[11Dec2024 01:27:04.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2313, y=-37, z=272} BlockPos{x=2317, y=-38, z=262}
+[11Dec2024 01:27:04.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2313, y=-37, z=272} BlockPos{x=2318, y=-38, z=262}
+[11Dec2024 01:27:04.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2313, y=-37, z=272} BlockPos{x=2318, y=-38, z=262}
+[11Dec2024 01:27:04.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2318, y=-38, z=262} BlockPos{x=2317, y=-40, z=262}
+[11Dec2024 01:27:05.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2317, y=-41, z=262} BlockPos{x=2317, y=-41, z=261}
+[11Dec2024 01:27:05.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2317, y=-41, z=262} BlockPos{x=2316, y=-40, z=262}
+[11Dec2024 01:27:05.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2317, y=-41, z=262} BlockPos{x=2316, y=-39, z=262}
+[11Dec2024 01:27:05.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2317, y=-41, z=262} BlockPos{x=2317, y=-38, z=263}
+[11Dec2024 01:27:05.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2317, y=-38, z=263} BlockPos{x=2317, y=-39, z=263}
+[11Dec2024 01:27:05.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2317, y=-38, z=263} BlockPos{x=2317, y=-40, z=263}
+[11Dec2024 01:27:05.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2317, y=-40, z=263} BlockPos{x=2316, y=-39, z=263}
+[11Dec2024 01:27:40.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 was slain by Leodrickk
+[11Dec2024 01:27:40.108] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-997960, 67, 98) minecraft:overworld
+[11Dec2024 01:28:27.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2316, y=-39, z=263} BlockPos{x=2545, y=245, z=29}
+[11Dec2024 01:28:27.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2316, y=-39, z=263} BlockPos{x=2545, y=245, z=28}

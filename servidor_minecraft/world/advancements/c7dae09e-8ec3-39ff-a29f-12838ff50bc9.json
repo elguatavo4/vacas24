@@ -44,6 +44,7 @@
       "minecraft:forest": "2024-12-01 02:48:01 +0000",
       "minecraft:desert": "2024-12-11 00:48:46 +0000",
       "minecraft:ocean": "2024-12-01 19:06:54 +0000",
+      "minecraft:warm_ocean": "2024-12-11 01:27:18 +0000",
       "minecraft:savanna": "2024-12-01 02:32:41 +0000",
       "minecraft:plains": "2024-12-01 02:42:42 +0000"
     },
@@ -2039,6 +2040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-11 01:15:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-10 23:45:17 +0000"
@@ -2210,6 +2217,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-11 00:53:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2024-12-11 01:11:34 +0000"
     },
     "done": true
   },
