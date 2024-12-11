@@ -1662,3 +1662,21 @@
 [11Dec2024 02:51:22.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved wrongly!
 [11Dec2024 02:53:37.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Koboleton
 [11Dec2024 02:53:37.422] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998328, 71, 48) minecraft:overworld
+[11Dec2024 02:54:59.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Koboleton
+[11Dec2024 02:55:06.160] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[11Dec2024 02:55:06.160] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[11Dec2024 02:55:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was shot by Skeleton
+[11Dec2024 02:55:41.076] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998408, 33, 39) minecraft:overworld
+[11Dec2024 02:56:57.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[11Dec2024 02:56:57.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[11Dec2024 02:57:03.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:51567] logged in with entity id 198180 at (-998332.4147390934, 71.0, 98.30000001192093)
+[11Dec2024 02:57:03.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[11Dec2024 02:59:04.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell from a high place
+[11Dec2024 02:59:04.462] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998339, 60, 103) minecraft:overworld
+[11Dec2024 02:59:49.711] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[11Dec2024 02:59:49.712] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[11Dec2024 03:00:51.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soy_Chetos230> [name:"Muerte 22:55:00 12-10-2024", x:-998336, y:72, z:46, dim:minecraft:overworld]
+[11Dec2024 03:03:32.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer fell from a high place
+[11Dec2024 03:03:32.900] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998331, 71, 112) minecraft:overworld
+[11Dec2024 03:04:12.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell from a high place
+[11Dec2024 03:04:12.811] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998330, 71, 70) minecraft:overworld
