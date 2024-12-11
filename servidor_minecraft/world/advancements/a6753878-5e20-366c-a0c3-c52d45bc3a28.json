@@ -271,6 +271,7 @@
       "minecraft:creeper": "2024-12-01 02:35:56 +0000",
       "minecraft:phantom": "2024-12-01 15:43:37 +0000",
       "minecraft:wither_skeleton": "2024-12-11 02:25:45 +0000",
+      "minecraft:husk": "2024-12-11 22:26:08 +0000",
       "minecraft:cave_spider": "2024-12-11 02:25:56 +0000",
       "minecraft:zombie": "2024-12-01 02:39:16 +0000",
       "minecraft:zombie_villager": "2024-12-01 02:32:49 +0000"
@@ -4721,6 +4722,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-11 03:01:28 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-11 03:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-11 03:13:07 +0000"
@@ -4787,21 +4800,39 @@
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2024-12-11 03:01:28 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-11 03:01:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-11 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 22:30:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2024-12-11 22:31:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-11 22:31:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-11 22:30:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-11 22:30:00 +0000"
     },
     "done": true
   },

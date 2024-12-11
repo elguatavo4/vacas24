@@ -9247,6 +9247,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-12-10 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/laviathan_spyglass": {
+    "criteria": {
+      "spyglass_at_bison": "2024-12-11 00:08:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_item": "2024-12-11 00:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-11 00:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-11 00:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-11 00:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-11 00:55:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-11 01:00:32 +0000"
@@ -9262,24 +9304,6 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-11 01:02:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-12-11 00:55:29 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/summon_luxtructosaurus": {
-    "criteria": {
-      "summon_luxtructosaurus": "2024-12-11 01:24:07 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/ominous_catalyst": {
-    "criteria": {
-      "nuclear_bomb": "2024-12-11 01:23:20 +0000"
     },
     "done": true
   },
@@ -9313,18 +9337,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/extinction_spear": {
-    "criteria": {
-      "dreadbow": "2024-12-11 01:32:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2024-12-11 00:53:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2024-12-11 01:02:05 +0000"
@@ -9343,9 +9355,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+  "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
-      "has_lily_of_the_valley": "2024-12-10 23:50:13 +0000"
+      "has_sandstone": "2024-12-11 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ominous_catalyst": {
+    "criteria": {
+      "nuclear_bomb": "2024-12-11 01:23:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2024-12-11 01:24:07 +0000"
     },
     "done": true
   },
@@ -9355,33 +9379,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/laviathan_spyglass": {
+  "alexscaves:alexscaves/extinction_spear": {
     "criteria": {
-      "spyglass_at_bison": "2024-12-11 00:08:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-11 00:55:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_arrow": {
-    "criteria": {
-      "has_item": "2024-12-11 00:37:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2024-12-11 01:02:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-11 00:55:29 +0000"
+      "dreadbow": "2024-12-11 01:32:09 +0000"
     },
     "done": true
   },

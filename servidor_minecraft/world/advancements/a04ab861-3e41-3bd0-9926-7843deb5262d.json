@@ -6689,5 +6689,17 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "trophy": "2024-12-11 22:28:37 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-11 22:28:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
