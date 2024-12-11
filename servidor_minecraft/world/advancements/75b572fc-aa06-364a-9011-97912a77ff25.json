@@ -9385,5 +9385,23 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2024-12-11 22:32:14 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2024-12-11 22:32:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2024-12-11 22:32:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

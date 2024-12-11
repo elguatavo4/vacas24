@@ -60,6 +60,7 @@
       "minecraft:lush_caves": "2024-12-06 16:50:23 +0000",
       "minecraft:ocean": "2024-12-03 02:24:46 +0000",
       "minecraft:jungle": "2024-12-03 16:45:32 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-11 22:36:24 +0000",
       "minecraft:warm_ocean": "2024-12-03 02:10:28 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 16:53:35 +0000",
       "minecraft:frozen_peaks": "2024-12-08 23:53:23 +0000",
@@ -2557,6 +2558,7 @@
       "minecraft:wither_skeleton": "2024-12-05 23:19:31 +0000",
       "minecraft:cave_spider": "2024-12-03 17:01:58 +0000",
       "minecraft:silverfish": "2024-12-05 14:41:23 +0000",
+      "minecraft:enderman": "2024-12-11 22:33:39 +0000",
       "minecraft:zombie": "2024-12-03 15:35:27 +0000"
     },
     "done": false
@@ -6689,6 +6691,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-11 22:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-11 22:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-11 22:36:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_lich": {
     "criteria": {
       "trophy": "2024-12-11 22:28:37 +0000"
@@ -6698,6 +6718,30 @@
   "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
       "has_trophy": "2024-12-11 22:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-11 22:36:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2024-12-11 22:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-11 22:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-11 22:36:41 +0000"
     },
     "done": true
   },
