@@ -1655,3 +1655,10 @@
 [11Dec2024 02:41:14.721] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998317, 38, 61) minecraft:overworld
 [11Dec2024 02:41:21.023] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [11Dec2024 02:41:21.023] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[11Dec2024 02:44:27.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Koboleton
+[11Dec2024 02:44:27.222] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998319, 38, 123) minecraft:overworld
+[11Dec2024 02:50:25.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk blew up
+[11Dec2024 02:50:25.777] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998358, 33, 133) minecraft:overworld
+[11Dec2024 02:51:22.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved wrongly!
+[11Dec2024 02:53:37.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Koboleton
+[11Dec2024 02:53:37.422] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998328, 71, 48) minecraft:overworld

@@ -21411,3 +21411,17 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [11Dec2024 02:41:16.788] [Server thread/DEBUG] [twilightforest/]: Player Soy_Chetos230 (a6753878-5e20-366c-a0c3-c52d45bc3a28) respawned and received items held in storage
 [11Dec2024 02:41:21.023] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [11Dec2024 02:41:21.023] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[11Dec2024 02:44:27.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Koboleton
+[11Dec2024 02:44:27.222] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998319, 38, 123) minecraft:overworld
+[11Dec2024 02:44:28.429] [Server thread/DEBUG] [twilightforest/]: Player Leodrickk (44a7d1fb-bc3f-3ca2-9054-70836b6519c1) respawned and received items held in storage
+[11Dec2024 02:45:05.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 02:45:05.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 02:50:05.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 02:50:05.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 02:50:25.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk blew up
+[11Dec2024 02:50:25.777] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998358, 33, 133) minecraft:overworld
+[11Dec2024 02:50:28.064] [Server thread/DEBUG] [twilightforest/]: Player Leodrickk (44a7d1fb-bc3f-3ca2-9054-70836b6519c1) respawned and received items held in storage
+[11Dec2024 02:51:22.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 moved wrongly!
+[11Dec2024 02:53:37.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Koboleton
+[11Dec2024 02:53:37.422] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998328, 71, 48) minecraft:overworld
+[11Dec2024 02:53:38.536] [Server thread/DEBUG] [twilightforest/]: Player Soy_Chetos230 (a6753878-5e20-366c-a0c3-c52d45bc3a28) respawned and received items held in storage
