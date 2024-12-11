@@ -7657,3 +7657,11 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [11Dec2024 23:11:35.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Vindicator
 [11Dec2024 23:11:42.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Disconnected
 [11Dec2024 23:11:42.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[11Dec2024 23:17:30.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 lost connection: Disconnected
+[11Dec2024 23:17:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 left the game
+[11Dec2024 23:20:00.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elguatavo7u7159[/127.206.238.1:39037] logged in with entity id 92883 at (-746.8658393519684, 275.5, -2304.970909152153)
+[11Dec2024 23:20:00.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 joined the game
+[11Dec2024 23:23:16.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 lost connection: Disconnected
+[11Dec2024 23:23:16.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 left the game
+[11Dec2024 23:26:44.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elguatavo7u7159[/127.206.238.1:34071] logged in with entity id 94422 at (-722.3545094624794, 267.0, -2302.740295564723)
+[11Dec2024 23:26:44.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 joined the game

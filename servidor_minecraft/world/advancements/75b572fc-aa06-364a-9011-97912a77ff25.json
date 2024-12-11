@@ -9385,9 +9385,45 @@
     },
     "done": true
   },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2024-12-11 22:32:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2024-12-11 22:32:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2024-12-11 22:32:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-12-11 22:43:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/fire_stew": {
     "criteria": {
       "has_item": "2024-12-11 23:00:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2024-12-11 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2024-12-11 23:10:16 +0000"
     },
     "done": true
   },
@@ -9409,12 +9445,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2024-12-11 23:10:16 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/deathworm_white_helmet": {
     "criteria": {
       "has_item": "2024-12-11 23:10:30 +0000"
@@ -9424,36 +9454,6 @@
   "iceandfire:recipes/combat/deathworm_white_leggings": {
     "criteria": {
       "has_item": "2024-12-11 23:10:30 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_coliseum": {
-    "criteria": {
-      "location0": "2024-12-11 23:05:13 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mining_system": {
-    "criteria": {
-      "location0": "2024-12-11 22:32:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_fire": {
-    "criteria": {
-      "has_item": "2024-12-11 22:43:39 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_cursed_pyramid": {
-    "criteria": {
-      "pyramid": "2024-12-11 22:32:02 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_scorched_mines": {
-    "criteria": {
-      "location0": "2024-12-11 22:32:14 +0000"
     },
     "done": true
   },
