@@ -1610,3 +1610,48 @@
 [11Dec2024 02:21:25.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crisogamaer[/127.33.222.185:55689] logged in with entity id 177262 at (-998282.9410157729, 13.419999986886978, 97.10008362678771)
 [11Dec2024 02:21:25.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer joined the game
 [11Dec2024 02:22:47.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> [x:-998296, y:21, z:129, dim:minecraft:overworld]
+[11Dec2024 02:23:38.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Stone Free]
+[11Dec2024 02:23:52.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Cover Me with Diamonds]
+[11Dec2024 02:24:19.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leodrickk[/127.237.45.76:45577] logged in with entity id 180402 at (-998311.8091778025, 71.25, 142.54869907361845)
+[11Dec2024 02:24:19.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk joined the game
+[11Dec2024 02:25:22.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 was slain by Wither Skeleton
+[11Dec2024 02:25:22.228] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998325, 33, 41) minecraft:overworld
+[11Dec2024 02:25:35.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Cursed Pyramid]
+[11Dec2024 02:25:37.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> [x:-998340, y:33, z:58, dim:minecraft:overworld]
+[11Dec2024 02:25:52.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Stone Free]
+[11Dec2024 02:26:18.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer withered away whilst fighting Wither Skeleton
+[11Dec2024 02:26:18.476] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998343, 33, 28) minecraft:overworld
+[11Dec2024 02:27:14.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has left this dimension
+[11Dec2024 02:27:14.433] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998333, 33, 49) minecraft:overworld
+[11Dec2024 02:30:48.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rechazado231 lost connection: Disconnected
+[11Dec2024 02:30:48.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 left the game
+[11Dec2024 02:31:35.354] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[11Dec2024 02:31:39.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Alex's Caves]
+[11Dec2024 02:32:59.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Alex's Caves]
+[11Dec2024 02:33:02.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Alex's Caves]
+[11Dec2024 02:36:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Koboleton
+[11Dec2024 02:36:28.023] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998330, 37, 81) minecraft:overworld
+[11Dec2024 02:36:33.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> [name:"desert mazmo", x:-998317, y:71, z:140, dim:minecraft:overworld]
+[11Dec2024 02:36:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was shot by Skeleton
+[11Dec2024 02:36:57.831] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998319, 33, 105) minecraft:overworld
+[11Dec2024 02:37:08.128] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[11Dec2024 02:37:08.128] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[11Dec2024 02:37:12.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> [name:"Muerte 22:36:28 12-10-2024", x:-998331, y:38, z:81, dim:minecraft:overworld]
+[11Dec2024 02:37:45.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Kobolediator
+[11Dec2024 02:37:45.472] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998315, 38, 105) minecraft:overworld
+[11Dec2024 02:37:57.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Kobolediator
+[11Dec2024 02:37:57.272] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998313, 38, 89) minecraft:overworld
+[11Dec2024 02:38:06.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Kobolediator
+[11Dec2024 02:38:06.072] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998316, 37, 105) minecraft:overworld
+[11Dec2024 02:38:12.826] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[11Dec2024 02:38:12.826] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[11Dec2024 02:38:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Kobolediator
+[11Dec2024 02:38:47.321] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998328, 33, 51) minecraft:overworld
+[11Dec2024 02:39:49.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Wadjet
+[11Dec2024 02:39:49.371] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998319, 38, 108) minecraft:overworld
+[11Dec2024 02:40:18.573] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[11Dec2024 02:40:18.574] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[11Dec2024 02:41:14.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Kobolediator
+[11Dec2024 02:41:14.721] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998317, 38, 61) minecraft:overworld
+[11Dec2024 02:41:21.023] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[11Dec2024 02:41:21.023] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
