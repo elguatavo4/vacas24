@@ -171,3 +171,17 @@
 [11Dec2024 00:58:18.978] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998210, 24, 219) minecraft:overworld
 [11Dec2024 00:59:47.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 was shot by Skeleton
 [11Dec2024 00:59:47.129] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998210, 25, 207) minecraft:overworld
+[11Dec2024 01:00:32.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Local Brewery]
+[11Dec2024 01:00:32.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=102, y=92, z=38} BlockPos{x=100, y=88, z=39}
+[11Dec2024 01:02:05.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=359, y=127, z=-109} BlockPos{x=359, y=126, z=-108}
+[11Dec2024 01:02:05.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=359, y=127, z=-109} BlockPos{x=359, y=126, z=-108}
+[11Dec2024 01:02:05.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=359, y=127, z=-109} BlockPos{x=359, y=126, z=-108}
+[11Dec2024 01:09:24.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Cover Me with Diamonds]
+[11Dec2024 01:10:13.379] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[11Dec2024 01:10:13.380] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[11Dec2024 01:10:13.395] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[11Dec2024 01:10:22.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ fell from a high place
+[11Dec2024 01:10:22.734] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2543, 87, 42) minecraft:overworld
+[11Dec2024 01:10:30.797] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[11Dec2024 01:10:33.842] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[11Dec2024 01:10:33.842] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
