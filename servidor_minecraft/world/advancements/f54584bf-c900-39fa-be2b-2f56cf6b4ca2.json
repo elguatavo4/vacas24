@@ -1513,6 +1513,9 @@
       "minecraft:hoglin": "2024-12-11 00:11:36 +0000",
       "minecraft:magma_cube": "2024-12-11 00:13:21 +0000",
       "minecraft:spider": "2024-12-09 23:45:18 +0000",
+      "minecraft:wither_skeleton": "2024-12-11 02:14:55 +0000",
+      "minecraft:husk": "2024-12-11 02:13:07 +0000",
+      "minecraft:cave_spider": "2024-12-11 02:15:09 +0000",
       "minecraft:zombie": "2024-12-09 23:52:24 +0000"
     },
     "done": false
@@ -1528,6 +1531,7 @@
       "cooked_porkchop": "2024-12-10 23:55:09 +0000",
       "cooked_mutton": "2024-12-09 23:52:20 +0000",
       "bread": "2024-12-10 00:02:43 +0000",
+      "golden_apple": "2024-12-11 02:15:27 +0000",
       "beetroot": "2024-12-11 00:33:52 +0000"
     },
     "done": false
@@ -3125,6 +3129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-11 02:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-11 00:52:27 +0000"
@@ -3152,6 +3162,12 @@
   "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-11 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-11 02:13:34 +0000"
     },
     "done": true
   },
@@ -3659,6 +3675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-11 02:11:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-11 00:23:14 +0000"
@@ -3704,6 +3726,12 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-11 00:33:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-11 02:10:00 +0000"
     },
     "done": true
   },
@@ -3923,9 +3951,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-11 02:09:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2024-12-11 00:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-11 02:10:00 +0000"
     },
     "done": true
   },
@@ -4271,6 +4311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2024-12-11 02:09:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-11 01:03:59 +0000"
@@ -4409,6 +4455,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2024-12-11 02:12:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-11 00:15:20 +0000"
@@ -4517,6 +4569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-11 02:13:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-11 00:35:46 +0000"
@@ -4619,6 +4677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-11 02:13:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2024-12-11 00:22:14 +0000"
@@ -4646,6 +4710,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-11 00:22:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2024-12-11 02:09:42 +0000"
     },
     "done": true
   },

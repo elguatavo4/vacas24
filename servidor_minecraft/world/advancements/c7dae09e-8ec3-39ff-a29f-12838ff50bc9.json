@@ -474,6 +474,7 @@
     "criteria": {
       "pumpkin_pie": "2024-12-01 02:46:25 +0000",
       "bread": "2024-12-01 03:13:10 +0000",
+      "golden_apple": "2024-12-11 02:15:51 +0000",
       "melon_slice": "2024-12-10 23:47:56 +0000",
       "carrot": "2024-12-01 02:46:13 +0000"
     },
@@ -669,6 +670,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-01 19:32:04 +0000",
       "minecraft:phantom": "2024-12-10 23:56:50 +0000",
+      "minecraft:wither_skeleton": "2024-12-11 02:16:01 +0000",
+      "minecraft:cave_spider": "2024-12-11 02:15:31 +0000",
       "minecraft:silverfish": "2024-12-01 19:31:57 +0000",
       "minecraft:zombie": "2024-12-01 02:49:23 +0000"
     },
@@ -2736,6 +2739,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_golden_apple": "2024-12-11 02:14:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2024-12-11 00:10:49 +0000"
@@ -2934,6 +2943,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2024-12-11 02:12:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 01:29:42 +0000"
@@ -3063,6 +3078,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 00:53:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2024-12-11 02:09:47 +0000"
     },
     "done": true
   },
