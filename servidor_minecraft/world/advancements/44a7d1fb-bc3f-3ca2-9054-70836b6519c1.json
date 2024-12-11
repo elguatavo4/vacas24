@@ -1073,6 +1073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-11 00:21:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-11 00:09:28 +0000"
@@ -1192,6 +1198,12 @@
       "cooked_porkchop": "2024-12-10 23:56:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-11 00:21:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -18032,3 +18032,27 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [11Dec2024 00:19:19.588] [Server thread/DEBUG] [twilightforest/]: Player Leodrickk (44a7d1fb-bc3f-3ca2-9054-70836b6519c1) respawned and received items held in storage
 [11Dec2024 00:19:27.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 00:19:27.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 00:19:34.840] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[11Dec2024 00:19:38.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Netherite Monstrosity
+[11Dec2024 00:19:38.684] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(109, 34, 1055) minecraft:the_nether
+[11Dec2024 00:19:40.080] [Server thread/DEBUG] [twilightforest/]: Player Crisogamaer (f54584bf-c900-39fa-be2b-2f56cf6b4ca2) respawned and received items held in storage
+[11Dec2024 00:19:59.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 has made the advancement [Hidden in the Depths]
+[11Dec2024 00:20:07.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 was slain by Netherite Monstrosity
+[11Dec2024 00:20:07.827] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(97, 34, 1069) minecraft:the_nether
+[11Dec2024 00:20:09.381] [Server thread/DEBUG] [twilightforest/]: Player rechazado231 (c7dae09e-8ec3-39ff-a29f-12838ff50bc9) respawned and received items held in storage
+[11Dec2024 00:20:38.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by elguatavo7u7159
+[11Dec2024 00:20:38.382] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(117, 34, 1063) minecraft:the_nether
+[11Dec2024 00:20:40.665] [Server thread/DEBUG] [twilightforest/]: Player Leodrickk (44a7d1fb-bc3f-3ca2-9054-70836b6519c1) respawned and received items held in storage
+[11Dec2024 00:20:46.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved wrongly!
+[11Dec2024 00:24:27.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 00:24:27.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 00:28:39.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> [name:"nether portal", x:37, y:57, z:47, dim:minecraft:the_nether]
+[11Dec2024 00:28:57.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 hit the ground too hard whilst trying to escape Crisogamaer
+[11Dec2024 00:28:57.159] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(34, 53, 48) minecraft:the_nether
+[11Dec2024 00:28:58.834] [Server thread/DEBUG] [twilightforest/]: Player rechazado231 (c7dae09e-8ec3-39ff-a29f-12838ff50bc9) respawned and received items held in storage
+[11Dec2024 00:29:27.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 00:29:27.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 00:29:33.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Creative Mode]
+[11Dec2024 00:29:36.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
+[11Dec2024 00:29:41.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> asdasd
+[11Dec2024 00:29:48.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> a
