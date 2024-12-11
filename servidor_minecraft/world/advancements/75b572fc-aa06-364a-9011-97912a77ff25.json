@@ -9313,6 +9313,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/extinction_spear": {
+    "criteria": {
+      "dreadbow": "2024-12-11 01:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-12-11 00:53:49 +0000"
