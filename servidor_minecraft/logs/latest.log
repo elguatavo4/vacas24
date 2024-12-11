@@ -7582,3 +7582,78 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [11Dec2024 23:04:47.085] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
 [11Dec2024 23:06:04.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-858, y=64, z=-1492} BlockPos{x=-849, y=63, z=-1469}
 [11Dec2024 23:06:04.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-858, y=64, z=-1492} BlockPos{x=-849, y=62, z=-1470}
+[11Dec2024 23:07:29.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 fell from a high place
+[11Dec2024 23:07:29.199] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(4064, 70, -686) minecraft:overworld
+[11Dec2024 23:07:41.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Vindicator
+[11Dec2024 23:07:41.917] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(4074, 68, -688) minecraft:overworld
+[11Dec2024 23:09:13.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Skeleton
+[11Dec2024 23:09:47.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Skeleton
+[11Dec2024 23:09:56.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Vindicator
+[11Dec2024 23:10:02.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-644, y=66, z=-1907} BlockPos{x=-648, y=67, z=-1910}
+[11Dec2024 23:10:02.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-644, y=66, z=-1907} BlockPos{x=-647, y=67, z=-1910}
+[11Dec2024 23:10:06.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Vindicator
+[11Dec2024 23:10:07.364] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:07.469] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:07.568] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:07.672] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:07.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:12.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-642, y=66, z=-1907} BlockPos{x=-640, y=65, z=-1912}
+[11Dec2024 23:10:12.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-642, y=66, z=-1907} BlockPos{x=-639, y=65, z=-1912}
+[11Dec2024 23:10:12.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-642, y=66, z=-1907} BlockPos{x=-638, y=65, z=-1911}
+[11Dec2024 23:10:16.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Eye of The Storm]
+[11Dec2024 23:10:16.665] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:16.763] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:16.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:16.968] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:17.095] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:17.166] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:17.264] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:17.367] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:17.464] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:17.565] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:17.672] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:17.771] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:17.868] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:17.966] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:18.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:18.164] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:18.269] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:18.370] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:18.467] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:18.564] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:18.665] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:18.764] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:18.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:18.964] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:19.065] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:19.165] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:19.265] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:19.366] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:19.469] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:19.564] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:19.664] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:19.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Pillager
+[11Dec2024 23:10:19.765] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:19.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:19.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:20.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:20.164] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:20.264] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:20.364] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:20.464] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:20.564] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:20.668] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:20.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:20.874] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:20.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:21.138] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[11Dec2024 23:10:24.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=64, z=-1913} BlockPos{x=-640, y=64, z=-1911}
+[11Dec2024 23:10:27.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=64, z=-1913} BlockPos{x=-638, y=65, z=-1910}
+[11Dec2024 23:10:28.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [The Desert Swimmers]
+[11Dec2024 23:10:56.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Vindicator
+[11Dec2024 23:11:02.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Vindicator
+[11Dec2024 23:11:09.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Vindicator
+[11Dec2024 23:11:21.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Vex
+[11Dec2024 23:11:35.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Vindicator
+[11Dec2024 23:11:42.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Disconnected
+[11Dec2024 23:11:42.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
