@@ -72,3 +72,21 @@
 [11Dec2024 00:29:36.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Set own game mode to Survival Mode]
 [11Dec2024 00:29:41.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> asdasd
 [11Dec2024 00:29:48.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> a
+[11Dec2024 00:33:06.190] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1071}
+[11Dec2024 00:33:06.191] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-1070}
+[11Dec2024 00:33:55.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _TaeV_[/127.73.21.150:50177] logged in with entity id 37260 at (414.342295457591, 92.0, 367.13252903627557)
+[11Dec2024 00:33:55.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ joined the game
+[11Dec2024 00:34:32.607] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[11Dec2024 00:35:17.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 has made the advancement [Who You Gonna Call?]
+[11Dec2024 00:35:26.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [The Desert Swimmers]
+[11Dec2024 00:35:30.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Spooky Scary Skeleton]
+[11Dec2024 00:36:19.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Cursed Pyramid]
+[11Dec2024 00:36:21.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Cursed Pyramid]
+[11Dec2024 00:39:02.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Koboleton
+[11Dec2024 00:39:02.666] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998332, 71, 112) minecraft:overworld
+[11Dec2024 00:39:05.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Koboleton
+[11Dec2024 00:39:05.341] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998327, 71, 113) minecraft:overworld
+[11Dec2024 00:39:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Koboleton
+[11Dec2024 00:39:16.641] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998332, 71, 111) minecraft:overworld
+[11Dec2024 00:39:46.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rechazado231 was slain by Ghost
+[11Dec2024 00:39:46.598] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(572, 106, 307) minecraft:overworld
