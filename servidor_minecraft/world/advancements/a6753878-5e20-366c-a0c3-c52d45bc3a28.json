@@ -4721,5 +4721,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-11 03:01:28 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-11 03:01:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

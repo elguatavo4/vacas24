@@ -1680,3 +1680,10 @@
 [11Dec2024 03:03:32.900] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998331, 71, 112) minecraft:overworld
 [11Dec2024 03:04:12.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell from a high place
 [11Dec2024 03:04:12.811] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998330, 71, 70) minecraft:overworld
+[11Dec2024 03:04:22.124] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[11Dec2024 03:04:22.125] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[11Dec2024 03:05:32.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soy_Chetos230> [name:"wa", x:-998332, y:71, z:69, dim:minecraft:overworld]
+[11Dec2024 03:07:19.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> [name:"Boss mazmo", x:-998304, y:37, z:68, dim:minecraft:overworld]
+[11Dec2024 03:08:38.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11Dec2024 03:09:21.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has completed the challenge [Death finds a Way]
+[11Dec2024 03:10:49.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> [name:"base", x:-998020, y:73, z:166, dim:minecraft:overworld]
