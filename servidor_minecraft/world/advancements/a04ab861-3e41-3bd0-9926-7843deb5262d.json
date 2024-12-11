@@ -6691,6 +6691,24 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "trophy": "2024-12-11 22:28:37 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-11 22:28:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2024-12-11 22:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2024-12-11 22:36:41 +0000"
@@ -6709,27 +6727,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "trophy": "2024-12-11 22:28:37 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/misc/lich_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2024-12-11 22:28:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2024-12-11 22:36:41 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_fort": {
-    "criteria": {
-      "location0": "2024-12-11 22:36:24 +0000"
     },
     "done": true
   },
