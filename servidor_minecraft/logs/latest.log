@@ -7522,3 +7522,48 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [11Dec2024 22:44:10.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Vindicator
 [11Dec2024 22:45:09.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Pillager
 [11Dec2024 22:45:19.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was slain by Vindicator
+[11Dec2024 22:47:03.406] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[11Dec2024 22:47:58.417] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[11Dec2024 22:47:58.418] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[11Dec2024 22:47:58.443] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[11Dec2024 22:47:58.444] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[11Dec2024 22:47:58.444] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[11Dec2024 22:47:58.444] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[11Dec2024 22:47:58.445] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[11Dec2024 22:47:58.445] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[11Dec2024 22:47:58.445] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[11Dec2024 22:47:58.445] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[11Dec2024 22:47:58.445] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[11Dec2024 22:47:58.446] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[11Dec2024 22:47:58.446] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[11Dec2024 22:47:58.446] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[11Dec2024 22:47:58.446] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[11Dec2024 22:47:59.020] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[11Dec2024 22:47:59.021] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[11Dec2024 22:48:01.391] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[11Dec2024 22:48:01.433] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[11Dec2024 22:48:01.434] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[11Dec2024 22:48:01.434] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[11Dec2024 22:48:01.435] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[11Dec2024 22:48:01.436] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[11Dec2024 22:48:01.436] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[11Dec2024 22:48:01.436] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[11Dec2024 22:48:01.437] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[11Dec2024 22:48:01.437] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[11Dec2024 22:48:03.233] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
+[11Dec2024 22:50:17.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2456, y=67, z=-124} BlockPos{x=974, y=41, z=1185}
+[11Dec2024 22:52:54.923] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/46267, l='ServerLevel[world]', x=-1396.25, y=124.62, z=-253.49] died, message: 'Nitwit was slain by Fire Dragon'
+[11Dec2024 22:54:27.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1501, y=126, z=-313} BlockPos{x=-1501, y=124, z=-313}
+[11Dec2024 22:54:29.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1501, y=125, z=-314} BlockPos{x=-1501, y=128, z=-313}
+[11Dec2024 22:54:30.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1501, y=125, z=-314} BlockPos{x=-1501, y=128, z=-313}
+[11Dec2024 22:54:31.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1501, y=126, z=-314} BlockPos{x=-1501, y=127, z=-314}
+[11Dec2024 22:54:31.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1501, y=126, z=-314} BlockPos{x=-1501, y=128, z=-315}
+[11Dec2024 22:54:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 was shot by Pillager
+[11Dec2024 22:54:31.778] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(4061, 59, -720) minecraft:overworld
+[11Dec2024 22:54:41.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: abdias_17 lost connection: Disconnected
+[11Dec2024 22:54:41.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: abdias_17 left the game
+[11Dec2024 22:54:48.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1501, y=127, z=-315} BlockPos{x=-1493, y=128, z=-301}
+[11Dec2024 22:55:00.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1501, y=127, z=-315} BlockPos{x=-1491, y=127, z=-303}
+[11Dec2024 22:55:29.666] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46433, l='ServerLevel[world]', x=-1386.14, y=126.62, z=-249.18] died, message: 'Villager was slain by Fire Dragon'
+[11Dec2024 22:55:50.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[11Dec2024 22:56:01.886] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46302, l='ServerLevel[world]', x=-1414.70, y=122.00, z=-258.34] died, message: 'Villager was burnt to a crisp whilst fighting Fire Dragon'

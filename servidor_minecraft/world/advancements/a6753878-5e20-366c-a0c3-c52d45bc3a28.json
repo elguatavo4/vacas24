@@ -4836,5 +4836,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2024-12-11 22:47:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/bamboo_banister": {
+    "criteria": {
+      "has_item": "2024-12-11 22:47:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

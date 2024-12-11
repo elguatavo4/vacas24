@@ -9391,6 +9391,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-12-11 22:43:39 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2024-12-11 22:32:02 +0000"
