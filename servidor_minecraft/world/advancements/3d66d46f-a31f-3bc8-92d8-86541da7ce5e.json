@@ -51,6 +51,7 @@
       "minecraft:dripstone_caves": "2024-12-03 15:22:14 +0000",
       "minecraft:swamp": "2024-12-06 15:14:33 +0000",
       "minecraft:forest": "2024-12-03 15:15:06 +0000",
+      "minecraft:desert": "2024-12-12 01:02:54 +0000",
       "minecraft:ocean": "2024-12-04 20:27:10 +0000",
       "minecraft:flower_forest": "2024-12-04 22:10:40 +0000",
       "minecraft:deep_dark": "2024-12-02 13:49:15 +0000",
@@ -2820,6 +2821,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-04 21:26:33 +0000",
+      "cooked_mutton": "2024-12-12 00:59:46 +0000",
       "cooked_beef": "2024-12-06 16:37:31 +0000",
       "porkchop": "2024-12-05 14:26:21 +0000",
       "bread": "2024-12-04 21:01:34 +0000",
@@ -5923,6 +5925,66 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2024-12-09 00:51:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-12 01:03:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-12 01:02:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 01:03:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-12 01:03:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2024-12-12 01:03:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2024-12-12 01:03:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-12-12 00:57:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2024-12-12 01:03:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-12 01:04:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-12 00:59:34 +0000"
     },
     "done": true
   },

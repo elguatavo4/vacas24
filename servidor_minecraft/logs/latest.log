@@ -895,3 +895,53 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [12Dec2024 01:00:02.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was turned into KFC by Fire Dragon
 [12Dec2024 01:00:02.359] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998070, 69, 962) minecraft:overworld
 [12Dec2024 01:00:40.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crisogamaer> [name:"base 2", x:-998046, y:65, z:1004, dim:minecraft:overworld]
+[12Dec2024 01:01:10.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by ist_shadow
+[12Dec2024 01:01:10.580] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998051, 65, 1008) minecraft:overworld
+[12Dec2024 01:02:10.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998071, y=66, z=1025} BlockPos{x=-998074, y=65, z=1026}
+[12Dec2024 01:02:10.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998071, y=66, z=1025} BlockPos{x=-998074, y=65, z=1026}
+[12Dec2024 01:02:49.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Dragonslayer]
+[12Dec2024 01:04:31.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> [name:"cueva preistorica", x:2471, y:-14, z:51, dim:minecraft:overworld]
+[12Dec2024 01:04:39.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has reached the goal [The Cave That Time Forgot]
+[12Dec2024 01:04:39.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has reached the goal [The Cave That Time Forgot]
+[12Dec2024 01:04:42.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[12Dec2024 01:04:42.454] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[12Dec2024 01:04:42.459] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[12Dec2024 01:04:47.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has reached the goal [The Cave That Time Forgot]
+[12Dec2024 01:06:32.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:54021] logged in with entity id 11994 at (1997.5937936808489, 20.0, -165.30000001192093)
+[12Dec2024 01:06:32.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[12Dec2024 01:06:43.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998062, y=67, z=943} BlockPos{x=2290, y=-25, z=16}
+[12Dec2024 01:06:43.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998062, y=67, z=943} BlockPos{x=2290, y=-25, z=16}
+[12Dec2024 01:06:43.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998062, y=67, z=943} BlockPos{x=2290, y=-25, z=16}
+[12Dec2024 01:06:45.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[12Dec2024 01:06:47.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2290, y=-26, z=13} BlockPos{x=2290, y=-26, z=14}
+[12Dec2024 01:06:54.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2290, y=-26, z=13} BlockPos{x=2290, y=-27, z=14}
+[12Dec2024 01:06:55.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2290, y=-27, z=13} BlockPos{x=2290, y=-27, z=14}
+[12Dec2024 01:06:56.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2290, y=-27, z=13} BlockPos{x=2290, y=-27, z=14}
+[12Dec2024 01:06:57.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2290, y=-27, z=13} BlockPos{x=2290, y=-27, z=14}
+[12Dec2024 01:07:07.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2290, y=-27, z=13} BlockPos{x=2290, y=-27, z=14}
+[12Dec2024 01:09:03.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [The Beginning of the End]
+[12Dec2024 01:09:03.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [The Beginning of the End]
+[12Dec2024 01:09:03.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [The Beginning of the End]
+[12Dec2024 01:10:02.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Luxtructosaurus
+[12Dec2024 01:10:02.549] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2287, -26, 21) minecraft:overworld
+[12Dec2024 01:10:09.101] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:10:09.101] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:10:09.102] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:10:20.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Luxtructosaurus
+[12Dec2024 01:10:20.813] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2291, -29, 9) minecraft:overworld
+[12Dec2024 01:10:21.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow was slain by Luxtructosaurus
+[12Dec2024 01:10:21.027] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2301, -30, 33) minecraft:overworld
+[12Dec2024 01:10:24.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Luxtructosaurus
+[12Dec2024 01:10:24.909] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2298, -36, 27) minecraft:overworld
+[12Dec2024 01:10:27.883] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:10:34.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Town of Bedrock]
+[12Dec2024 01:10:35.306] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:10:35.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:10:35.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:10:38.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was burnt to a crisp whilst fighting Luxtructosaurus
+[12Dec2024 01:10:38.435] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2289, -27, 15) minecraft:overworld
+[12Dec2024 01:10:46.306] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:10:46.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:10:46.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:11:14.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Town of Bedrock]
+[12Dec2024 01:11:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Town of Bedrock]
