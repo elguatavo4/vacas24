@@ -945,3 +945,100 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [12Dec2024 01:10:46.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
 [12Dec2024 01:11:14.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Town of Bedrock]
 [12Dec2024 01:11:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Town of Bedrock]
+[12Dec2024 01:11:26.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Luxtructosaurus
+[12Dec2024 01:11:26.558] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2309, -37, 67) minecraft:overworld
+[12Dec2024 01:11:39.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk tried to swim in lava
+[12Dec2024 01:11:48.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 burned to death
+[12Dec2024 01:11:48.459] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2290, -29, 34) minecraft:overworld
+[12Dec2024 01:11:57.808] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:11:57.809] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:11:57.810] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:12:34.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 burned to death
+[12Dec2024 01:12:34.911] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2286, -31, 59) minecraft:overworld
+[12Dec2024 01:12:49.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was doomed to fall
+[12Dec2024 01:12:49.957] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2297, -40, 7) minecraft:overworld
+[12Dec2024 01:13:08.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Life Finds A Way]
+[12Dec2024 01:13:14.158] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:13:14.159] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:13:14.159] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:13:47.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Luxtructosaurus
+[12Dec2024 01:13:47.717] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2297, -40, 21) minecraft:overworld
+[12Dec2024 01:13:53.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was burnt to a crisp whilst fighting Luxtructosaurus
+[12Dec2024 01:13:53.809] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2302, -31, 23) minecraft:overworld
+[12Dec2024 01:13:59.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Luxtructosaurus
+[12Dec2024 01:13:59.367] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2303, -40, 8) minecraft:overworld
+[12Dec2024 01:14:00.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was burnt to a crisp whilst fighting Luxtructosaurus
+[12Dec2024 01:14:00.616] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2293, -31, 20) minecraft:overworld
+[12Dec2024 01:14:09.355] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:14:09.356] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:14:09.357] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:14:09.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Luxtructosaurus
+[12Dec2024 01:14:10.003] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2300, -40, 23) minecraft:overworld
+[12Dec2024 01:14:14.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer burned to death
+[12Dec2024 01:14:14.297] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2315, -36, -3) minecraft:overworld
+[12Dec2024 01:14:19.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was doomed to fall
+[12Dec2024 01:14:19.773] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2296, -41, 37) minecraft:overworld
+[12Dec2024 01:14:34.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Luxtructosaurus
+[12Dec2024 01:14:34.707] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2292, -40, 22) minecraft:overworld
+[12Dec2024 01:14:51.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 burned to death
+[12Dec2024 01:14:51.863] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2295, -41, 38) minecraft:overworld
+[12Dec2024 01:14:57.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was burnt to a crisp whilst fighting Luxtructosaurus
+[12Dec2024 01:14:57.709] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2304, -48, 12) minecraft:overworld
+[12Dec2024 01:15:03.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Luxtructosaurus
+[12Dec2024 01:15:03.702] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2313, -48, 30) minecraft:overworld
+[12Dec2024 01:15:07.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Luxtructosaurus
+[12Dec2024 01:15:07.703] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2303, -48, 9) minecraft:overworld
+[12Dec2024 01:15:09.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Luxtructosaurus
+[12Dec2024 01:15:09.697] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2295, -40, 20) minecraft:overworld
+[12Dec2024 01:15:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Luxtructosaurus
+[12Dec2024 01:15:14.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Luxtructosaurus
+[12Dec2024 01:15:14.201] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2304, -48, 11) minecraft:overworld
+[12Dec2024 01:15:20.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Re-Extinct]
+[12Dec2024 01:15:20.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has completed the challenge [The End... of the Beginning]
+[12Dec2024 01:15:28.458] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:15:28.458] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:15:28.459] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:19:14.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell from a high place
+[12Dec2024 01:19:14.674] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2118, -8, -97) minecraft:overworld
+[12Dec2024 01:19:51.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Life Finds A Way]
+[12Dec2024 01:19:54.383] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:19:54.384] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:19:54.384] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:19:55.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved wrongly!
+[12Dec2024 01:20:10.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Life Finds A Way]
+[12Dec2024 01:20:20.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by ist_shadow
+[12Dec2024 01:20:20.926] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2382, -34, 16) minecraft:overworld
+[12Dec2024 01:23:45.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 fell from a high place
+[12Dec2024 01:23:45.930] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2058, -31, -196) minecraft:overworld
+[12Dec2024 01:23:55.733] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:23:55.734] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:23:55.735] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:24:41.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2300, y=-31, z=35} BlockPos{x=2022, y=-32, z=-64}
+[12Dec2024 01:24:41.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2300, y=-31, z=35} BlockPos{x=2022, y=-33, z=-64}
+[12Dec2024 01:24:42.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2300, y=-31, z=35} BlockPos{x=2022, y=-34, z=-64}
+[12Dec2024 01:24:42.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2300, y=-31, z=35} BlockPos{x=2023, y=-33, z=-64}
+[12Dec2024 01:24:50.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 hit the ground too hard
+[12Dec2024 01:24:50.079] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2129, -26, -153) minecraft:overworld
+[12Dec2024 01:24:56.782] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:24:56.783] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:24:56.784] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:25:46.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Tree Stars!!!]
+[12Dec2024 01:25:54.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow was turned into KFC by Fire Dragon
+[12Dec2024 01:25:54.859] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2056, -32, -113) minecraft:overworld
+[12Dec2024 01:26:00.766] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:26:26.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned into KFC by Fire Dragon
+[12Dec2024 01:26:26.401] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2044, -33, -117) minecraft:overworld
+[12Dec2024 01:26:39.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was turned into KFC by Fire Dragon
+[12Dec2024 01:26:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Tree Stars!!!]
+[12Dec2024 01:27:00.726] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:27:00.727] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:27:00.727] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:28:03.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow has made the advancement [Tree Stars!!!]
+[12Dec2024 01:28:17.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Mother of Dragons]
+[12Dec2024 01:31:25.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer lost connection: Disconnected
+[12Dec2024 01:31:25.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer left the game
+[12Dec2024 01:31:31.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soy_Chetos230 lost connection: Disconnected
+[12Dec2024 01:31:31.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 left the game
+[12Dec2024 01:31:42.703] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57bd765a[id=<null>,name=Crisogamaer,properties={},legacy=false] (/127.33.222.185:36905) lost connection: Disconnected
+[12Dec2024 01:31:46.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crisogamaer[/127.33.222.185:54415] logged in with entity id 48267 at (2068.1332892980768, -53.0, -142.20788804747036)
+[12Dec2024 01:31:46.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer joined the game

@@ -9531,9 +9531,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-12 01:28:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
       "has_item": "2024-12-12 01:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-12 01:27:49 +0000"
     },
     "done": true
   },
