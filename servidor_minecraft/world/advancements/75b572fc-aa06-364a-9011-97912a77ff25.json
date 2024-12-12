@@ -9465,21 +9465,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_leggings": {
-    "criteria": {
-      "has_item": "2024-12-11 23:34:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2024-12-11 23:29:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_helmet": {
-    "criteria": {
-      "has_item": "2024-12-11 23:34:04 +0000"
     },
     "done": true
   },
@@ -9489,15 +9477,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-11 23:29:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
     "criteria": {
       "has_item": "2024-12-11 23:34:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/green_dye": {
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
     "criteria": {
-      "has_cactus": "2024-12-11 23:34:18 +0000"
+      "has_item": "2024-12-11 23:34:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-11 23:34:04 +0000"
     },
     "done": true
   },
@@ -9507,9 +9507,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_banner": {
+  "minecraft:recipes/misc/green_dye": {
     "criteria": {
-      "has_light_gray_wool": "2024-12-11 23:29:45 +0000"
+      "has_cactus": "2024-12-11 23:34:18 +0000"
     },
     "done": true
   },
