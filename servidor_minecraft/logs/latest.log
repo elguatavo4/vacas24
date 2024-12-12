@@ -1042,3 +1042,40 @@ java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIn
 [12Dec2024 01:31:42.703] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57bd765a[id=<null>,name=Crisogamaer,properties={},legacy=false] (/127.33.222.185:36905) lost connection: Disconnected
 [12Dec2024 01:31:46.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crisogamaer[/127.33.222.185:54415] logged in with entity id 48267 at (2068.1332892980768, -53.0, -142.20788804747036)
 [12Dec2024 01:31:46.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer joined the game
+[12Dec2024 01:32:13.558] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[12Dec2024 01:32:14.158] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[12Dec2024 01:32:20.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soy_Chetos230[/127.196.35.113:53629] logged in with entity id 49774 at (2060.456812080601, -54.0, -137.69999998807907)
+[12Dec2024 01:32:20.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 joined the game
+[12Dec2024 01:32:31.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> [name:"ASDASDASD", x:2124, y:-36, z:218, dim:minecraft:overworld]
+[12Dec2024 01:33:16.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk fell from a high place
+[12Dec2024 01:33:16.624] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2116, -43, 227) minecraft:overworld
+[12Dec2024 01:35:08.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2539, y=246, z=32} BlockPos{x=2124, y=-39, z=208}
+[12Dec2024 01:35:19.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow was incinerated by Fire Dragon
+[12Dec2024 01:35:19.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2071, -26, 215) minecraft:overworld
+[12Dec2024 01:35:25.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Tree Stars!!!]
+[12Dec2024 01:35:29.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[12Dec2024 01:35:29.399] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2123, -35, 191) minecraft:overworld
+[12Dec2024 01:35:38.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned into KFC by Fire Dragon
+[12Dec2024 01:35:38.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was turned into KFC by Fire Dragon
+[12Dec2024 01:35:38.651] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2126, -35, 191) minecraft:overworld
+[12Dec2024 01:35:50.876] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:36:31.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Mother of Dragons]
+[12Dec2024 01:36:46.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was slain by Crisogamaer
+[12Dec2024 01:36:46.317] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2105, -37, 215) minecraft:overworld
+[12Dec2024 01:36:58.267] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:36:58.268] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:36:58.268] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:37:00.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was killed by ist_shadow using magic
+[12Dec2024 01:37:00.098] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2111, -38, 211) minecraft:overworld
+[12Dec2024 01:37:11.263] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:37:11.263] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:37:11.263] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[12Dec2024 01:38:23.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ist_shadow lost connection: Disconnected
+[12Dec2024 01:38:23.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow left the game
+[12Dec2024 01:38:23.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ist_shadow[/127.189.178.52:42621] logged in with entity id 66393 at (2127.5048316852944, -36.878703159460805, 213.69999998807907)
+[12Dec2024 01:38:23.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow joined the game
+[12Dec2024 01:38:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ist_shadow was slain by Soy_Chetos230
+[12Dec2024 01:38:30.312] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(2138, -34, 219) minecraft:overworld
+[12Dec2024 01:39:15.021] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Dec2024 01:41:07.631] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/block/branch/ThickBranchBlock$ReplaceableState
+[12Dec2024 01:41:08.374] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState

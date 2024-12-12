@@ -3289,6 +3289,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-12 01:38:17 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/summon_luxtructosaurus": {
     "criteria": {
       "summon_luxtructosaurus": "2024-12-12 01:09:03 +0000"
@@ -3319,6 +3325,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-12 01:38:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2024-12-12 01:31:01 +0000"
@@ -3334,6 +3346,12 @@
   "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
       "killed_by_vallumraptor": "2024-12-12 01:19:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2024-12-12 01:35:25 +0000"
     },
     "done": true
   },
@@ -3355,9 +3373,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 01:38:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-12 01:38:17 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2024-12-12 01:04:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-12 01:38:17 +0000"
     },
     "done": true
   },

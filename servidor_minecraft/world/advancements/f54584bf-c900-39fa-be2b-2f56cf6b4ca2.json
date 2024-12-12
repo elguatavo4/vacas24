@@ -4835,33 +4835,33 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/summon_luxtructosaurus": {
-    "criteria": {
-      "summon_luxtructosaurus": "2024-12-12 01:09:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-12-12 01:03:37 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-12 01:04:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2024-12-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-12 01:11:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2024-12-12 01:14:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_helmet": {
-    "criteria": {
-      "has_item": "2024-12-12 01:29:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-12 01:29:22 +0000"
     },
     "done": true
   },
@@ -4877,15 +4877,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_gray_leggings": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
-      "has_item": "2024-12-12 01:29:22 +0000"
+      "has_moss_block": "2024-12-12 01:14:07 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_gray_boots": {
+  "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
-      "has_item": "2024-12-12 01:29:22 +0000"
+      "has_moss_block": "2024-12-12 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 01:14:07 +0000"
     },
     "done": true
   },
@@ -4901,39 +4907,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 01:29:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-12 01:29:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2024-12-12 01:29:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2024-12-12 01:29:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2024-12-12 01:29:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+  "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
-      "has_moss_block": "2024-12-12 01:14:07 +0000"
+      "has_item": "2024-12-12 01:38:20 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_primordial_caves": {
+  "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
-      "discover": "2024-12-12 01:04:39 +0000"
+      "has_item": "2024-12-12 01:38:20 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/limestone": {
+  "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
-      "limestone": "2024-12-12 01:11:14 +0000"
+      "has_item": "2024-12-12 01:38:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
     "criteria": {
-      "has_moss_block": "2024-12-12 01:14:07 +0000"
+      "has_dragonscales_red": "2024-12-12 01:38:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
-      "has_moss_block": "2024-12-12 01:14:07 +0000"
+      "has_item": "2024-12-12 01:38:20 +0000"
     },
     "done": true
   },
