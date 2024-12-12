@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-03 15:32:20 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-03 14:57:30 +0000",
+      "minecraft:mushroom_fields": "2024-12-12 01:54:10 +0000",
       "minecraft:taiga": "2024-12-03 15:00:26 +0000",
       "minecraft:deep_ocean": "2024-12-03 02:12:10 +0000",
       "minecraft:eroded_badlands": "2024-12-03 16:03:45 +0000",
@@ -6742,6 +6743,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-11 22:36:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-12 01:56:53 +0000"
     },
     "done": true
   },
