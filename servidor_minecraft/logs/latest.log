@@ -2728,3 +2728,7 @@ java.lang.IndexOutOfBoundsException: Index 5184 out of bounds for length 51
 [15Dec2024 00:54:46.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> mano puedes dormir?
 [15Dec2024 00:54:49.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> los phatoms molestan
 [15Dec2024 00:54:56.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[15Dec2024 00:57:49.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 has made the advancement [Bonfire Lit]
+[15Dec2024 01:03:40.306] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/block/branch/ThickBranchBlock$ReplaceableState
+[15Dec2024 01:05:05.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 lost connection: Disconnected
+[15Dec2024 01:05:05.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 left the game
