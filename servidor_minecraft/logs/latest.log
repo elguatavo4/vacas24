@@ -2644,3 +2644,5 @@ java.lang.IndexOutOfBoundsException: Index 5184 out of bounds for length 51
 [15Dec2024 00:11:53.040] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/api/treedata/TreePart$TreePartType
 [15Dec2024 00:11:53.077] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/entity/FallingTreeEntity$DestroyType
 [15Dec2024 00:11:53.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictrees/util/BranchDestructionData$PosType
+[15Dec2024 00:16:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> gustavo tienes bloques de piedra para regalarme?
+[15Dec2024 00:16:57.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiaguitoOwO2021> oka
