@@ -48,9 +48,12 @@
       "minecraft:lukewarm_ocean": "2024-12-10 00:46:20 +0000",
       "minecraft:stony_shore": "2024-12-09 23:35:42 +0000",
       "minecraft:dripstone_caves": "2024-12-10 00:25:34 +0000",
+      "minecraft:cold_ocean": "2024-12-16 00:14:08 +0000",
       "minecraft:forest": "2024-12-09 23:20:06 +0000",
       "minecraft:lush_caves": "2024-12-10 00:25:21 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-16 00:14:42 +0000",
       "minecraft:desert": "2024-12-10 00:57:24 +0000",
+      "minecraft:jungle": "2024-12-16 00:10:31 +0000",
       "minecraft:warm_ocean": "2024-12-10 00:55:10 +0000",
       "minecraft:flower_forest": "2024-12-09 23:35:48 +0000",
       "minecraft:frozen_peaks": "2024-12-09 23:53:55 +0000",
@@ -1536,6 +1539,7 @@
       "baked_potato": "2024-12-12 01:48:30 +0000",
       "bread": "2024-12-10 00:02:43 +0000",
       "golden_apple": "2024-12-11 02:15:27 +0000",
+      "melon_slice": "2024-12-16 00:13:17 +0000",
       "beetroot": "2024-12-11 00:33:52 +0000"
     },
     "done": false
@@ -5194,6 +5198,84 @@
   "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
       "has_item": "2024-12-12 02:06:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-16 00:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 00:11:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-16 00:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-16 00:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 00:18:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-16 00:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-16 00:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 00:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-16 00:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-16 00:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-16 00:10:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-16 00:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 00:18:26 +0000"
     },
     "done": true
   },
