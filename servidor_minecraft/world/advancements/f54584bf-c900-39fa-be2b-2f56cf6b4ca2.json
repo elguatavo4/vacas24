@@ -5468,6 +5468,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2024-12-16 22:18:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/crimson_banister": {
     "criteria": {
       "has_item": "2024-12-16 21:49:24 +0000"
