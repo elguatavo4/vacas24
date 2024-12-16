@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-03 21:55:48 +0000",
+      "minecraft:taiga": "2024-12-15 01:08:22 +0000",
       "minecraft:deep_ocean": "2024-12-02 19:42:58 +0000",
       "minecraft:eroded_badlands": "2024-12-03 16:10:48 +0000",
       "minecraft:sunflower_plains": "2024-12-02 17:51:28 +0000",
