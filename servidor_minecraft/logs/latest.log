@@ -8866,3 +8866,37 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 118 out of bounds for leng
 [16Dec2024 21:46:29.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=392, y=93, z=377} BlockPos{x=393, y=93, z=376}
 [16Dec2024 21:46:30.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Isn't It Iron Pick]
 [16Dec2024 21:46:56.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=392, y=93, z=392} BlockPos{x=392, y=93, z=393}
+[16Dec2024 21:47:19.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[16Dec2024 21:47:59.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Take Aim]
+[16Dec2024 21:48:07.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was doomed to fall by Mutant Zombie
+[16Dec2024 21:48:07.926] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998337, 33, 43) minecraft:overworld
+[16Dec2024 21:48:15.526] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 21:48:17.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=92, z=396} BlockPos{x=396, y=92, z=382}
+[16Dec2024 21:48:17.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=92, z=396} BlockPos{x=396, y=92, z=382}
+[16Dec2024 21:48:17.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=92, z=396} BlockPos{x=396, y=92, z=382}
+[16Dec2024 21:48:17.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=92, z=396} BlockPos{x=396, y=92, z=382}
+[16Dec2024 21:48:56.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=398, y=91, z=373} BlockPos{x=383, y=92, z=402}
+[16Dec2024 21:49:18.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was doomed to fall by Mutant Zombie
+[16Dec2024 21:49:18.229] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998344, 38, 40) minecraft:overworld
+[16Dec2024 21:49:27.871] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 21:49:29.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> mono
+[16Dec2024 21:49:35.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was killed by Witch using magic
+[16Dec2024 21:49:35.021] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998315, 20, 130) minecraft:overworld
+[16Dec2024 21:49:41.896] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 21:51:42.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Not Today, Thank You]
+[16Dec2024 21:51:59.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=397, y=91, z=394} BlockPos{x=399, y=92, z=397}
+[16Dec2024 21:52:37.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [The Song of the Dragons]
+[16Dec2024 21:53:18.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/127.104.117.44:55995] logged in with entity id 49856 at (443.8253583597078, 95.0, 342.2316685232965)
+[16Dec2024 21:53:18.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[16Dec2024 21:53:21.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk has made the advancement [Splintering II]
+[16Dec2024 21:53:29.034] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[16Dec2024 21:53:29.036] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[16Dec2024 21:53:57.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=93, z=415} BlockPos{x=394, y=91, z=415}
+[16Dec2024 21:53:57.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=93, z=415} BlockPos{x=394, y=91, z=415}
+[16Dec2024 21:53:57.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=93, z=415} BlockPos{x=394, y=91, z=415}
+[16Dec2024 21:53:57.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=395, y=93, z=415} BlockPos{x=394, y=91, z=415}
+[16Dec2024 21:54:23.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Splintering II]
+[16Dec2024 21:55:38.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1HUY lost connection: Disconnected
+[16Dec2024 21:55:38.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY left the game
+[16Dec2024 21:55:51.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: N1HUY[/127.234.52.234:60613] logged in with entity id 52450 at (-998586.5, 70.23152379758702, 29006.5)
+[16Dec2024 21:55:51.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY joined the game
