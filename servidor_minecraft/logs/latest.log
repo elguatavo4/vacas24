@@ -10254,3 +10254,14 @@ Caused by: java.io.IOException: extra data at the end
 [16Dec2024 00:19:43.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998585, y=72, z=29009} BlockPos{x=-998585, y=70, z=29010}
 [16Dec2024 00:19:43.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998585, y=72, z=29009} BlockPos{x=-998585, y=70, z=29010}
 [16Dec2024 00:19:43.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998585, y=72, z=29009} BlockPos{x=-998585, y=70, z=29010}
+[16Dec2024 00:26:28.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crisogamaer lost connection: Disconnected
+[16Dec2024 00:26:28.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer left the game
+[16Dec2024 00:26:32.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crisogamaer[/127.33.222.185:44061] logged in with entity id 13763 at (-998634.6999999881, 21.0, 29009.52373770172)
+[16Dec2024 00:26:32.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer joined the game
+[16Dec2024 00:27:10.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.5069176049049133
+[16Dec2024 00:27:11.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.4582546027682497
+[16Dec2024 00:27:11.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.5069176049049133
+[16Dec2024 00:27:11.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.41595887443793345
+[16Dec2024 00:27:11.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.28908813474441786
+[16Dec2024 00:33:37.481] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[16Dec2024 00:33:37.483] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
