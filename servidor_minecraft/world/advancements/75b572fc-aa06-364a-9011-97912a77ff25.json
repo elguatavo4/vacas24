@@ -59,6 +59,7 @@
       "minecraft:desert": "2024-12-11 00:49:20 +0000",
       "minecraft:jungle": "2024-12-01 01:51:20 +0000",
       "minecraft:ocean": "2024-12-01 19:06:57 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-16 01:31:36 +0000",
       "minecraft:windswept_savanna": "2024-12-11 23:39:25 +0000",
       "minecraft:warm_ocean": "2024-12-01 04:19:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 16:37:17 +0000",
@@ -1265,6 +1266,7 @@
       "minecraft:enderman": "2024-11-30 22:50:35 +0000",
       "minecraft:silverfish": "2024-12-01 13:23:59 +0000",
       "minecraft:stray": "2024-12-02 17:44:54 +0000",
+      "minecraft:vex": "2024-12-16 01:32:42 +0000",
       "minecraft:zombie": "2024-11-29 23:14:22 +0000",
       "minecraft:zombie_villager": "2024-12-01 19:08:40 +0000"
     },
@@ -9798,6 +9800,48 @@
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2024-12-15 00:30:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2024-12-16 01:31:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-16 02:17:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-16 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2024-12-16 02:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-16 02:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2024-12-16 02:49:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-16 03:00:30 +0000"
     },
     "done": true
   },
