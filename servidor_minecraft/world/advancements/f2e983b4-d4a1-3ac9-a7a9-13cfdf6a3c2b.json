@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-16 21:40:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 21:18:50 +0000"
@@ -188,6 +194,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-16 21:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-16 21:43:52 +0000"
     },
     "done": true
   },
@@ -290,7 +302,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-16 21:27:14 +0000",
-      "minecraft:spider": "2024-12-16 21:30:40 +0000"
+      "minecraft:spider": "2024-12-16 21:30:40 +0000",
+      "minecraft:husk": "2024-12-16 21:41:08 +0000"
     },
     "done": false
   },
@@ -327,6 +340,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 21:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-16 21:40:58 +0000"
     },
     "done": true
   },
@@ -375,6 +394,12 @@
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-16 21:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-16 21:41:52 +0000"
     },
     "done": true
   },
@@ -429,6 +454,12 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-16 21:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2024-12-16 21:40:57 +0000"
     },
     "done": true
   },
@@ -738,6 +769,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-16 21:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-16 21:18:17 +0000"
@@ -912,6 +949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2024-12-16 21:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-16 21:18:54 +0000"
@@ -975,6 +1018,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-16 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-16 21:43:52 +0000"
     },
     "done": true
   },
@@ -1152,6 +1201,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-16 21:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-16 21:38:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-16 21:28:04 +0000"
@@ -1179,6 +1240,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 21:18:50 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_golden_apple": "2024-12-16 21:43:52 +0000"
     },
     "done": true
   },
@@ -1221,6 +1288,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 21:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-16 21:41:52 +0000"
     },
     "done": true
   },
@@ -1332,6 +1405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-16 21:40:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 21:18:50 +0000"
@@ -1359,6 +1438,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-16 21:28:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-16 21:39:25 +0000"
     },
     "done": true
   },
@@ -1422,6 +1507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-16 21:40:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-16 21:29:29 +0000"
@@ -1431,6 +1522,12 @@
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-16 21:30:50 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mining_system": {
+    "criteria": {
+      "location0": "2024-12-16 21:45:54 +0000"
     },
     "done": true
   },
@@ -1494,6 +1591,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-16 21:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-16 21:28:04 +0000"
@@ -1506,6 +1609,7 @@
       "minecraft:stony_shore": "2024-12-16 21:16:17 +0000",
       "minecraft:dripstone_caves": "2024-12-16 21:27:19 +0000",
       "minecraft:forest": "2024-12-16 21:28:41 +0000",
+      "minecraft:desert": "2024-12-16 21:36:33 +0000",
       "minecraft:savanna": "2024-12-16 21:14:36 +0000",
       "minecraft:plains": "2024-12-16 21:17:48 +0000"
     },
@@ -1531,6 +1635,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-16 21:36:24 +0000",
       "melon_slice": "2024-12-16 21:19:45 +0000"
     },
     "done": false
@@ -1595,6 +1700,12 @@
     },
     "done": true
   },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2024-12-16 21:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-16 21:18:06 +0000"
@@ -1640,6 +1751,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 21:35:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2024-12-16 21:39:46 +0000"
     },
     "done": true
   },
