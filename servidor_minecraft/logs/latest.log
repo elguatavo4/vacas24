@@ -8900,3 +8900,197 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 118 out of bounds for leng
 [16Dec2024 21:55:38.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY left the game
 [16Dec2024 21:55:51.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: N1HUY[/127.234.52.234:60613] logged in with entity id 52450 at (-998586.5, 70.23152379758702, 29006.5)
 [16Dec2024 21:55:51.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY joined the game
+[16Dec2024 21:58:58.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=387, y=93, z=459} BlockPos{x=386, y=92, z=459}
+[16Dec2024 21:58:58.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=386, y=93, z=459} BlockPos{x=386, y=92, z=459}
+[16Dec2024 21:58:59.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=386, y=92, z=459} BlockPos{x=385, y=92, z=460}
+[16Dec2024 21:59:01.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=388, y=93, z=451} BlockPos{x=389, y=92, z=451}
+[16Dec2024 21:59:02.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=389, y=92, z=451} BlockPos{x=389, y=92, z=452}
+[16Dec2024 21:59:04.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=389, y=92, z=451} BlockPos{x=382, y=92, z=447}
+[16Dec2024 21:59:04.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=382, y=93, z=447} BlockPos{x=382, y=92, z=447}
+[16Dec2024 22:00:03.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was slain by Fire Dragon
+[16Dec2024 22:00:03.571] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998267, 0, -12) minecraft:overworld
+[16Dec2024 22:00:10.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:00:10.922] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998266, -13, -4) minecraft:overworld
+[16Dec2024 22:00:16.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:00:16.475] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998265, -13, -6) minecraft:overworld
+[16Dec2024 22:00:16.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was slain by Fire Dragon
+[16Dec2024 22:00:16.669] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998263, -14, -10) minecraft:overworld
+[16Dec2024 22:00:16.800] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 22:00:18.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:00:18.732] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998273, -13, -5) minecraft:overworld
+[16Dec2024 22:00:23.429] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 22:00:25.380] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 22:00:25.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was burnt to a crisp whilst fighting Fire Dragon
+[16Dec2024 22:00:46.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiaguitoOwO2021 lost connection: Disconnected
+[16Dec2024 22:00:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 left the game
+[16Dec2024 22:00:46.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/127.104.117.44:42547] logged in with entity id 57373 at (-524.8543180512851, -11.750812921255317, 1401.6047682373255)
+[16Dec2024 22:00:46.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[16Dec2024 22:02:39.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:02:39.172] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998265, 9, -21) minecraft:overworld
+[16Dec2024 22:02:51.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned into KFC by Fire Dragon
+[16Dec2024 22:02:52.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was turned into KFC by Fire Dragon
+[16Dec2024 22:02:52.656] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998259, 4, -1) minecraft:overworld
+[16Dec2024 22:02:56.429] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 22:03:02.929] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 22:03:13.936] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37b26a9b[id=af141437-727c-30fc-9a69-1a126a779720,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:43407) lost connection: Disconnected
+[16Dec2024 22:03:38.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was incinerated by Fire Dragon
+[16Dec2024 22:03:38.722] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998259, 4, -1) minecraft:overworld
+[16Dec2024 22:03:39.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned into KFC by Fire Dragon
+[16Dec2024 22:03:39.071] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998263, -11, -1) minecraft:overworld
+[16Dec2024 22:03:44.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:03:44.971] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998261, -6, 0) minecraft:overworld
+[16Dec2024 22:03:48.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:03:48.329] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998272, 19, -6) minecraft:overworld
+[16Dec2024 22:03:49.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was incinerated by Fire Dragon
+[16Dec2024 22:03:49.423] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@537534e3[id=af141437-727c-30fc-9a69-1a126a779720,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:50251) lost connection: Disconnected
+[16Dec2024 22:03:54.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was turned into KFC by Fire Dragon
+[16Dec2024 22:03:55.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:03:55.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was turned into KFC by Fire Dragon
+[16Dec2024 22:04:06.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was incinerated by Fire Dragon
+[16Dec2024 22:04:07.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned into KFC by Fire Dragon
+[16Dec2024 22:04:07.730] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998264, -13, -6) minecraft:overworld
+[16Dec2024 22:04:07.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was turned into KFC by Fire Dragon
+[16Dec2024 22:04:07.732] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998265, -13, -6) minecraft:overworld
+[16Dec2024 22:04:12.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:04:13.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was slain by Fire Dragon
+[16Dec2024 22:04:17.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:04:19.033] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38adca3d[id=af141437-727c-30fc-9a69-1a126a779720,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:44035) lost connection: Disconnected
+[16Dec2024 22:04:19.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:04:19.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was slain by Fire Dragon
+[16Dec2024 22:04:33.527] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Network error in:packet_handler for player:literal{}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell ThiaguitoOwO2021 '},hoverEvent=HoverEvent{action=<action show_entity>, value='net.minecraft.network.chat.HoverEvent$EntityTooltipInfo@763fa80'},insertion=ThiaguitoOwO2021}, siblings=[literal{ThiaguitoOwO2021}]]
+io.netty.handler.timeout.ReadTimeoutException: null
+[16Dec2024 22:04:36.128] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@216a01b3[id=<null>,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:58423) lost connection: Disconnected
+[16Dec2024 22:04:53.698] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 22:04:54.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:04:54.479] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998263, -11, -1) minecraft:overworld
+[16Dec2024 22:04:55.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:04:55.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was slain by Fire Dragon
+[16Dec2024 22:05:00.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:05:03.701] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 22:05:04.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was slain by Fire Dragon
+[16Dec2024 22:05:04.127] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998259, 2, -2) minecraft:overworld
+[16Dec2024 22:05:05.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:05:05.875] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998259, 4, -1) minecraft:overworld
+[16Dec2024 22:05:09.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was slain by Fire Dragon
+[16Dec2024 22:05:14.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY was incinerated by Fire Dragon
+[16Dec2024 22:05:14.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was incinerated by Fire Dragon
+[16Dec2024 22:05:14.430] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998265, -12, -2) minecraft:overworld
+[16Dec2024 22:05:31.136] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d426ecd[id=<null>,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:39943) lost connection: Disconnected
+[16Dec2024 22:05:34.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:05:34.325] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998266, -16, -16) minecraft:overworld
+[16Dec2024 22:05:39.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:05:39.510] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998259, 2, -9) minecraft:overworld
+[16Dec2024 22:05:40.909] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 22:05:44.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 was slain by Zombie
+[16Dec2024 22:05:44.724] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-526, -13, 1401) minecraft:overworld
+[16Dec2024 22:05:45.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:06:22.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiaguitoOwO2021 lost connection: Timed out
+[16Dec2024 22:06:22.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 left the game
+[16Dec2024 22:06:22.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elguatavo7u7159: Kicked ThiaguitoOwO2021: Kicked by an operator]
+[16Dec2024 22:06:31.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:06:31.270] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998258, 4, -15) minecraft:overworld
+[16Dec2024 22:06:35.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:06:35.124] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998254, 9, -15) minecraft:overworld
+[16Dec2024 22:06:39.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:06:39.721] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fae287[id=<null>,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:40775) lost connection: Disconnected
+[16Dec2024 22:06:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:06:44.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:06:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:06:50.839] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Network error in:packet_handler with:net.minecraft.server.network.ServerHandshakePacketListenerImpl@1c1ef617
+io.netty.handler.timeout.ReadTimeoutException: null
+[16Dec2024 22:06:52.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:06:53.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:07:00.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:07:00.685] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998260, 4, 1) minecraft:overworld
+[16Dec2024 22:07:06.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Getting an Upgrade]
+[16Dec2024 22:07:16.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:07:16.819] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998264, 1, -9) minecraft:overworld
+[16Dec2024 22:07:17.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:07:17.022] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998255, 1, -5) minecraft:overworld
+[16Dec2024 22:07:21.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned into KFC by Fire Dragon
+[16Dec2024 22:07:21.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was turned into KFC by Fire Dragon
+[16Dec2024 22:07:30.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:07:31.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was turned into KFC by Fire Dragon
+[16Dec2024 22:07:34.437] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d4288dc[id=<null>,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:58791) lost connection: Disconnected
+[16Dec2024 22:07:34.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:07:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:07:43.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was incinerated by Fire Dragon
+[16Dec2024 22:07:44.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:07:57.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:07:57.774] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998253, 3, -13) minecraft:overworld
+[16Dec2024 22:08:10.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> gus
+[16Dec2024 22:08:15.291] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7921ba25[id=<null>,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:56419) lost connection: Disconnected
+[16Dec2024 22:08:15.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> gus
+[16Dec2024 22:08:17.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> gus
+[16Dec2024 22:08:19.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> gus
+[16Dec2024 22:08:21.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Leodrickk> gus
+[16Dec2024 22:08:48.376] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6afc266[id=<null>,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:50629) lost connection: Disconnected
+[16Dec2024 22:08:52.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leodrickk was slain by Fire Dragon
+[16Dec2024 22:08:52.120] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998262, -6, -1) minecraft:overworld
+[16Dec2024 22:08:55.936] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a8f6fcd[id=<null>,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:38231) lost connection: Disconnected
+[16Dec2024 22:09:16.155] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[16Dec2024 22:09:23.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned into KFC by Fire Dragon
+[16Dec2024 22:09:27.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Alex's Mobs]
+[16Dec2024 22:09:51.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:09:51.328] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998272, 6, -9) minecraft:overworld
+[16Dec2024 22:09:56.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:10:01.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:10:06.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned into KFC by Fire Dragon
+[16Dec2024 22:10:06.926] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998272, 4, -8) minecraft:overworld
+[16Dec2024 22:10:12.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:10:12.079] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998271, 3, -8) minecraft:overworld
+[16Dec2024 22:10:18.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned into KFC by Fire Dragon
+[16Dec2024 22:10:18.428] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998279, 11, -7) minecraft:overworld
+[16Dec2024 22:10:22.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:10:25.431] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@934b433[id=<null>,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:46211) lost connection: Disconnected
+[16Dec2024 22:10:28.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:10:28.822] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998277, 9, -15) minecraft:overworld
+[16Dec2024 22:10:31.438] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d4d32fa[id=<null>,name=ThiaguitoOwO2021,properties={},legacy=false] (/127.104.117.44:40395) lost connection: Disconnected
+[16Dec2024 22:10:34.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:10:52.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:10:57.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:11:02.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:11:03.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/127.104.117.44:52671] logged in with entity id 89435 at (-524.8543180512851, -11.750812921255317, 1401.6047682373255)
+[16Dec2024 22:11:03.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[16Dec2024 22:11:10.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:11:22.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned into KFC by Fire Dragon
+[16Dec2024 22:11:27.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:11:30.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! -4.426230115932924,0.0,-9.637686724203604
+[16Dec2024 22:11:33.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:11:37.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:11:50.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:11:50.182] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998274, 5, -8) minecraft:overworld
+[16Dec2024 22:11:54.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:12:03.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:12:09.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:12:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:12:22.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:12:22.653] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998273, 3, 1) minecraft:overworld
+[16Dec2024 22:12:29.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:12:40.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:12:53.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:12:58.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:13:03.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned into KFC by Fire Dragon
+[16Dec2024 22:13:09.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:13:09.631] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/client/Constants$WorldType
+[16Dec2024 22:13:15.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was turned into KFC by Fire Dragon
+[16Dec2024 22:13:20.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:13:26.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:13:32.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:13:45.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:13:51.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:13:59.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:14:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:14:20.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiaguitoOwO2021 lost connection: Disconnected
+[16Dec2024 22:14:20.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 left the game
+[16Dec2024 22:14:20.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/127.104.117.44:45835] logged in with entity id 119142 at (466.5, 87.0, 228.5)
+[16Dec2024 22:14:20.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[16Dec2024 22:14:28.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was incinerated by Fire Dragon
+[16Dec2024 22:14:36.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was doomed to fall by Zombie
+[16Dec2024 22:14:38.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! 3.8914235528016548,0.0,-9.884338490549624
+[16Dec2024 22:14:42.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Fire Dragon
+[16Dec2024 22:14:59.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer was slain by Zombie
+[16Dec2024 22:14:59.681] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998588, 70, 29009) minecraft:overworld
+[16Dec2024 22:16:03.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Local Brewery]
+[16Dec2024 22:17:03.335] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[16Dec2024 22:17:30.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elguatavo7u7159> COMPRO CORAZON DE MAR A BUEN PRESIO PE
