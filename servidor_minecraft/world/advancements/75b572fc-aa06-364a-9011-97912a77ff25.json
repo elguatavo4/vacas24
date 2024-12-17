@@ -9852,5 +9852,23 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2024-12-16 23:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-12-16 23:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-16 23:56:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
