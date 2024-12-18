@@ -6922,3 +6922,21 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [18Dec2024 16:33:41.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [18Dec2024 16:37:16.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Dragonslayer]
 [18Dec2024 16:37:35.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _TaeV_ has made the advancement [Mother of Dragons]
+[18Dec2024 16:39:47.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3441, y=-38, z=303} BlockPos{x=-3442, y=-38, z=300}
+[18Dec2024 16:41:19.610] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[18Dec2024 16:44:34.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! 10.0051219627494,0.0,-4.480967979579873
+[18Dec2024 16:44:34.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! 11.987849281984381,0.0,-5.4373827175732
+[18Dec2024 16:44:34.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! 10.128429729258642,0.0,-4.11077963939897
+[18Dec2024 16:44:34.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! 12.214598877821118,0.0,-4.746197893877252
+[18Dec2024 16:44:54.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! -0.08889507059939206,-10.552241243705595,1.1391381868634198
+[18Dec2024 16:47:06.377] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[18Dec2024 16:47:23.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! 3.9905135721201077,0.0,-9.378689018289151
+[18Dec2024 16:47:23.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! 4.358753354754299,0.0,-11.347546086646616
+[18Dec2024 16:47:23.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! 4.621435749111697,0.0,-13.339269575102662
+[18Dec2024 16:47:23.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! 1.3336223054211587,0.0,-9.933491977157246
+[18Dec2024 16:47:23.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! -0.556581977987662,0.0,20.2053098899014
+[18Dec2024 16:47:23.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! -0.556581977987662,0.0,20.2053098899014
+[18Dec2024 16:47:23.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! -0.556581977987662,0.0,20.2053098899014
+[18Dec2024 16:47:23.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! 1.0146690565161407,0.0,14.377327840018552
+[18Dec2024 16:47:23.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! 0.6755090897204354,0.0,12.288600019364821
+[18Dec2024 16:47:23.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved too quickly! 0.32584786997176707,0.0,10.188607161584514
