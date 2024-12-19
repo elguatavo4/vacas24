@@ -3271,3 +3271,78 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [19Dec2024 01:07:09.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from N1HUY: Location (-999976.631193459, 65.44761416316032, 29106.375) too far away from hit block BlockPos{x=-999976, y=65, z=29106}.
 [19Dec2024 01:11:38.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Mariachi?]
 [19Dec2024 01:22:12.704] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[19Dec2024 01:35:11.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Who You Gonna Call?]
+[19Dec2024 01:35:14.351] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[19Dec2024 01:37:29.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.8368797620814803
+[19Dec2024 01:37:29.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.9247176998541136
+[19Dec2024 01:37:29.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 3.010931521658449
+[19Dec2024 01:37:29.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 4.096191554688971
+[19Dec2024 01:37:29.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 5.179165582999815
+[19Dec2024 01:37:29.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 6.2579041765534384
+[19Dec2024 01:37:29.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 6.884757026617137
+[19Dec2024 01:38:22.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiaguitoOwO2021[/127.104.117.44:54745] logged in with entity id 40043 at (-496.94425143130394, 14.0, 1395.3975047365889)
+[19Dec2024 01:38:22.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 joined the game
+[19Dec2024 01:38:24.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.3111735040479289
+[19Dec2024 01:38:24.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.3174616052174315
+[19Dec2024 01:38:24.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.36341819379208573
+[19Dec2024 01:38:24.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.4306005990729318
+[19Dec2024 01:38:25.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 2.5091405156761084
+[19Dec2024 01:38:25.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.46363810846480646
+[19Dec2024 01:38:25.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.4668898851741119
+[19Dec2024 01:38:25.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.5564987172345468
+[19Dec2024 01:38:25.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.4695608644356071
+[19Dec2024 01:38:25.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.4700590338071038
+[19Dec2024 01:38:25.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.4703255943053364
+[19Dec2024 01:38:25.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.4704682255132866
+[19Dec2024 01:38:25.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.4705445446289218
+[19Dec2024 01:38:25.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.47058538146603723
+[19Dec2024 01:38:25.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.5621715999120624
+[19Dec2024 01:38:25.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.4706189244657253
+[19Dec2024 01:38:25.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.47062518063376046
+[19Dec2024 01:38:25.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.5622326948209206
+[19Dec2024 01:38:25.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.47063031939217126
+[19Dec2024 01:38:25.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.4706312778317283
+[19Dec2024 01:38:25.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.5622420545079194
+[19Dec2024 01:38:25.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.47063206508505573
+[19Dec2024 01:38:25.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.5622432630048593
+[19Dec2024 01:38:25.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.4706322904841045
+[19Dec2024 01:38:26.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.4706323325236781
+[19Dec2024 01:38:26.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.47063235501821055
+[19Dec2024 01:38:26.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.5622437080754707
+[19Dec2024 01:38:26.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.47063237349505016
+[19Dec2024 01:38:26.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.47063237694118243
+[19Dec2024 01:38:26.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.5622437417289916
+[19Dec2024 01:38:26.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.653855107503432
+[19Dec2024 01:38:26.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.47063238029977583
+[19Dec2024 01:38:26.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.5622437468846897
+[19Dec2024 01:38:26.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.6538551136207502
+[19Dec2024 01:38:26.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 0.47063238081432246
+[19Dec2024 01:38:26.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of elguatavo7u7159) moved wrongly! 1.562243747674529
+[19Dec2024 01:41:36.801] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[19Dec2024 01:41:36.802] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[19Dec2024 01:41:36.805] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[19Dec2024 01:41:51.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.2587199999999825
+[19Dec2024 01:41:52.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.37718000000000984
+[19Dec2024 01:42:30.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.53515625
+[19Dec2024 01:42:30.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.53515625
+[19Dec2024 01:42:30.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.53515625
+[19Dec2024 01:42:30.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.53515625
+[19Dec2024 01:42:30.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.53515625
+[19Dec2024 01:42:30.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.53515625
+[19Dec2024 01:42:30.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.53515625
+[19Dec2024 01:42:30.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.53515625
+[19Dec2024 01:42:30.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.5311454352252554
+[19Dec2024 01:42:30.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.2507677589126729
+[19Dec2024 01:42:30.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.4276152225007763
+[19Dec2024 01:42:30.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.6317831153269253
+[19Dec2024 01:42:30.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 0.8603153676497755
+[19Dec2024 01:42:30.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 1.0
+[19Dec2024 01:42:31.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 1.0
+[19Dec2024 01:42:31.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 1.0
+[19Dec2024 01:42:31.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 1.0
+[19Dec2024 01:42:31.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 1.0
+[19Dec2024 01:42:31.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of ThiaguitoOwO2021) moved wrongly! 1.0
+[19Dec2024 01:49:18.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiaguitoOwO2021 fell from a high place
+[19Dec2024 01:49:18.764] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(464, 29, 240) minecraft:overworld
+[19Dec2024 01:49:24.037] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/Coralssus_Entity$Variant
+[19Dec2024 01:49:47.980] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
