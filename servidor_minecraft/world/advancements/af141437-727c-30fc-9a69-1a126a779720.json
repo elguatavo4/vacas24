@@ -1289,6 +1289,7 @@
       "minecraft:vindicator": "2024-12-06 16:48:44 +0000",
       "minecraft:magma_cube": "2024-12-03 01:55:28 +0000",
       "minecraft:spider": "2024-12-02 17:29:10 +0000",
+      "minecraft:creeper": "2024-12-19 02:39:17 +0000",
       "minecraft:evoker": "2024-12-04 22:49:32 +0000",
       "minecraft:phantom": "2024-12-03 21:50:38 +0000",
       "minecraft:witch": "2024-12-06 16:32:02 +0000",
@@ -6692,12 +6693,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/lime_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-19 01:41:27 +0000"
@@ -6710,27 +6705,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/cyan_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2024-12-19 02:10:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-12-19 01:41:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2024-12-19 02:11:24 +0000"
     },
     "done": true
   },
@@ -6740,21 +6717,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/brown_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-12-19 01:41:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/gray_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
     },
     "done": true
   },
@@ -6770,27 +6735,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/blue_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2024-12-19 01:41:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/pink_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
     },
     "done": true
   },
@@ -6803,36 +6750,6 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-19 01:41:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-19 01:51:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/magenta_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/green_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/red_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/orange_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
     },
     "done": true
   },
@@ -6872,33 +6789,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/purple_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2024-12-19 01:41:27 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/light_blue_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-19 01:41:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/yellow_lens": {
-    "criteria": {
-      "has_glass_pane": "2024-12-19 01:51:21 +0000"
     },
     "done": true
   },
@@ -6938,12 +6837,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-19 01:51:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2024-12-19 01:41:27 +0000"
@@ -6953,6 +6846,102 @@
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-19 01:41:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2024-12-19 01:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-19 01:41:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/lime_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cyan_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/brown_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/pink_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/magenta_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/green_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/red_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/orange_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/purple_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/light_blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/yellow_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-19 01:51:21 +0000"
     },
     "done": true
   },
@@ -6968,21 +6957,105 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/cage_trap": {
-    "criteria": {
-      "has_redstone": "2024-12-19 01:41:27 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/black_lens": {
     "criteria": {
       "has_glass_pane": "2024-12-19 01:51:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "securitycraft:recipes/building_blocks/reinforced_oak_planks": {
     "criteria": {
-      "has_redstone": "2024-12-19 01:41:27 +0000"
+      "has_log": "2024-12-19 01:51:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 01:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-19 02:10:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2024-12-19 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-19 02:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-19 02:50:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-19 03:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-19 02:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-19 02:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-19 02:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-19 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-19 02:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-19 02:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-19 02:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-19 02:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-19 02:32:20 +0000"
     },
     "done": true
   },
