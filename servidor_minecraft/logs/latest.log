@@ -4303,3 +4303,15 @@ java.lang.IndexOutOfBoundsException: Index 4544 out of bounds for length 51
 [19Dec2024 04:22:19.327] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
 [19Dec2024 04:23:54.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Surfer Rosa]
 [19Dec2024 04:31:30.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Sweet Dreams]
+[19Dec2024 04:33:50.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crisogamaer has made the advancement [Enchanter]
+[19Dec2024 04:35:07.594] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ferreusveritas/dynamictreesplus/systems/mushroomlogic/shapekits/BellShape$ringAction
+[19Dec2024 04:35:41.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/44089, l='ServerLevel[world]', x=-998863.93, y=68.00, z=-330.16] died: Witch has left this dimension
+[19Dec2024 04:35:56.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was killed by Witch using magic
+[19Dec2024 04:35:56.327] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lothrazar/simpletomb/data/MessageType
+[19Dec2024 04:35:56.329] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998867, 67, -331) minecraft:overworld
+[19Dec2024 04:35:56.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/44100, l='ServerLevel[world]', x=-998868.50, y=64.00, z=-335.99] died: Witch was slain by Soy_Chetos230
+[19Dec2024 04:36:02.388] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Dec2024 04:36:02.389] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Dec2024 04:36:02.389] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[19Dec2024 04:36:02.390] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[19Dec2024 04:50:21.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/40273, l='ServerLevel[world]', x=-998575.57, y=103.00, z=88774.13] died, message: 'Nitwit was slain by Zombie'
