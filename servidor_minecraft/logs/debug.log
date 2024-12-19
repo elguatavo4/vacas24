@@ -12548,3 +12548,8 @@ java.lang.IndexOutOfBoundsException: Index 4544 out of bounds for length 51
 [19Dec2024 04:50:21.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/40273, l='ServerLevel[world]', x=-998575.57, y=103.00, z=88774.13] died, message: 'Nitwit was slain by Zombie'
 [19Dec2024 04:52:46.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 04:52:46.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 04:56:12.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 has made the advancement [Into Fire]
+[19Dec2024 04:57:46.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 04:57:46.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 05:02:46.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 05:02:46.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
