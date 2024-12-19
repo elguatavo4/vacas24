@@ -3270,3 +3270,4 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [19Dec2024 01:07:09.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from N1HUY: Location (-999976.631193459, 65.44761416316032, 29106.375) too far away from hit block BlockPos{x=-999976, y=65, z=29106}.
 [19Dec2024 01:07:09.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from N1HUY: Location (-999976.631193459, 65.44761416316032, 29106.375) too far away from hit block BlockPos{x=-999976, y=65, z=29106}.
 [19Dec2024 01:11:38.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elguatavo7u7159 has made the advancement [Mariachi?]
+[19Dec2024 01:22:12.704] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
