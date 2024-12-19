@@ -3252,3 +3252,16 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [19Dec2024 00:47:38.788] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1000477, 51, 29397) minecraft:overworld
 [19Dec2024 00:49:31.151] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
 [19Dec2024 00:49:41.900] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[19Dec2024 00:50:50.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Ant Farm]
+[19Dec2024 00:51:46.635] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[19Dec2024 00:51:46.636] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[19Dec2024 00:51:46.637] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[19Dec2024 00:51:46.637] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[19Dec2024 00:51:46.637] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[19Dec2024 00:51:46.637] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[19Dec2024 00:51:48.720] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[19Dec2024 00:51:48.744] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[19Dec2024 00:51:48.744] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[19Dec2024 00:54:51.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! 0.6496623730828901,-10.180807139306339,0.5440815596230095
+[19Dec2024 00:55:57.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1000759, y=86, z=29389} BlockPos{x=-1000760, y=86, z=29388}
+[19Dec2024 00:57:16.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [What a Deal!]

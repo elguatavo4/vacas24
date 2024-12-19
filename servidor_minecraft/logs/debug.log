@@ -10997,3 +10997,36 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [19Dec2024 00:49:40.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
 [19Dec2024 00:49:40.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
 [19Dec2024 00:49:41.900] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[19Dec2024 00:50:36.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:50:37.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:50:50.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Ant Farm]
+[19Dec2024 00:51:46.635] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[19Dec2024 00:51:46.636] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[19Dec2024 00:51:46.637] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[19Dec2024 00:51:46.637] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[19Dec2024 00:51:46.637] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[19Dec2024 00:51:46.637] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[19Dec2024 00:51:48.720] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[19Dec2024 00:51:48.744] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[19Dec2024 00:51:48.744] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[19Dec2024 00:52:02.285] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1000866, y=138, z=29271}
+[19Dec2024 00:52:02.285] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:birch}
+[19Dec2024 00:52:02.285] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 8
+[19Dec2024 00:52:02.285] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJxJJxOOPX0nv0+rt6+kxxZJ6R8hx6+txJP1pJPXzeOJJOPvc9fSKJxx9+nX
+[19Dec2024 00:52:06.515] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-1000885, y=127, z=29389}
+[19Dec2024 00:52:06.515] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[19Dec2024 00:52:06.515] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[19Dec2024 00:52:06.515] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJOJOOP0+vXb9pJ8hJOePfS
+[19Dec2024 00:54:51.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! 0.6496623730828901,-10.180807139306339,0.5440815596230095
+[19Dec2024 00:55:36.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:55:36.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:55:57.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1000759, y=86, z=29389} BlockPos{x=-1000760, y=86, z=29388}
+[19Dec2024 00:57:16.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [What a Deal!]
+[19Dec2024 00:57:47.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[19Dec2024 00:57:48.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[19Dec2024 00:57:48.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[19Dec2024 00:57:48.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[19Dec2024 00:57:48.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[19Dec2024 00:57:48.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[19Dec2024 00:57:48.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[19Dec2024 01:00:15.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
