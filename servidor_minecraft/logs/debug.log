@@ -11030,3 +11030,13 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [19Dec2024 00:57:48.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
 [19Dec2024 00:57:48.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
 [19Dec2024 01:00:15.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[19Dec2024 01:00:26.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-999984, y=90, z=29043} BlockPos{x=-999984, y=89, z=29042}
+[19Dec2024 01:00:36.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 01:00:36.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 01:05:36.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 01:05:36.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 01:05:44.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Surfer Rosa]
+[19Dec2024 01:07:09.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from N1HUY: Location (-999976.631193459, 65.44761416316032, 29106.375) too far away from hit block BlockPos{x=-999976, y=65, z=29106}.
+[19Dec2024 01:07:09.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from N1HUY: Location (-999976.631193459, 65.44761416316032, 29106.375) too far away from hit block BlockPos{x=-999976, y=65, z=29106}.
+[19Dec2024 01:10:36.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 01:10:36.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

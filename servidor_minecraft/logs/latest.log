@@ -3265,3 +3265,7 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [19Dec2024 00:54:51.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elguatavo7u7159 moved too quickly! 0.6496623730828901,-10.180807139306339,0.5440815596230095
 [19Dec2024 00:55:57.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1000759, y=86, z=29389} BlockPos{x=-1000760, y=86, z=29388}
 [19Dec2024 00:57:16.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [What a Deal!]
+[19Dec2024 01:00:26.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-999984, y=90, z=29043} BlockPos{x=-999984, y=89, z=29042}
+[19Dec2024 01:05:44.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [Surfer Rosa]
+[19Dec2024 01:07:09.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from N1HUY: Location (-999976.631193459, 65.44761416316032, 29106.375) too far away from hit block BlockPos{x=-999976, y=65, z=29106}.
+[19Dec2024 01:07:09.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from N1HUY: Location (-999976.631193459, 65.44761416316032, 29106.375) too far away from hit block BlockPos{x=-999976, y=65, z=29106}.
