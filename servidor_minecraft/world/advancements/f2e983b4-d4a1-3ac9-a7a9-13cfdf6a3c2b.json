@@ -40,6 +40,7 @@
       "minecraft:snowy_slopes": "2024-12-17 00:01:48 +0000",
       "minecraft:taiga": "2024-12-16 23:04:57 +0000",
       "minecraft:birch_forest": "2024-12-16 23:48:23 +0000",
+      "minecraft:bamboo_jungle": "2024-12-19 01:51:21 +0000",
       "minecraft:dark_forest": "2024-12-16 23:48:54 +0000",
       "minecraft:sparse_jungle": "2024-12-19 00:45:49 +0000",
       "minecraft:lukewarm_ocean": "2024-12-16 21:16:43 +0000",
@@ -48,7 +49,9 @@
       "minecraft:dripstone_caves": "2024-12-16 21:27:19 +0000",
       "minecraft:grove": "2024-12-17 00:01:51 +0000",
       "minecraft:forest": "2024-12-16 21:28:41 +0000",
+      "minecraft:lush_caves": "2024-12-19 01:53:47 +0000",
       "minecraft:desert": "2024-12-16 21:36:33 +0000",
+      "minecraft:jungle": "2024-12-19 01:52:44 +0000",
       "minecraft:warm_ocean": "2024-12-16 21:51:18 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-16 23:48:42 +0000",
       "minecraft:savanna": "2024-12-16 21:14:36 +0000",
@@ -3703,6 +3706,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-19 01:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 01:12:16 +0000"
@@ -3868,6 +3877,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-19 01:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-12-19 01:53:18 +0000"
     },
     "done": true
   },
