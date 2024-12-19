@@ -60,6 +60,7 @@
       "minecraft:ocean": "2024-12-04 21:16:06 +0000",
       "minecraft:jungle": "2024-12-05 14:50:02 +0000",
       "minecraft:warm_ocean": "2024-12-19 03:58:19 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-19 05:47:51 +0000",
       "minecraft:flower_forest": "2024-12-04 21:16:28 +0000",
       "minecraft:frozen_peaks": "2024-12-04 22:39:44 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-19 05:25:40 +0000",
@@ -280,6 +281,7 @@
       "minecraft:husk": "2024-12-11 22:26:08 +0000",
       "minecraft:cave_spider": "2024-12-11 02:25:56 +0000",
       "minecraft:zombie": "2024-12-01 02:39:16 +0000",
+      "minecraft:drowned": "2024-12-19 05:52:31 +0000",
       "minecraft:zombie_villager": "2024-12-01 02:32:49 +0000"
     },
     "done": false
