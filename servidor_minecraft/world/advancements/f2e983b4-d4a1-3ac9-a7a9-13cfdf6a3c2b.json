@@ -4444,5 +4444,59 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-19 04:31:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-19 04:26:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-19 04:18:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-19 04:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-19 04:21:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-19 04:28:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-19 04:18:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-12-19 04:05:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-19 04:26:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
