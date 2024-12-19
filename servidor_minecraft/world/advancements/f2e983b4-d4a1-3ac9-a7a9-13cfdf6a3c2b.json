@@ -1042,6 +1042,7 @@
       "minecraft:skeleton": "2024-12-16 21:27:14 +0000",
       "minecraft:spider": "2024-12-16 21:30:40 +0000",
       "minecraft:creeper": "2024-12-16 23:59:54 +0000",
+      "minecraft:phantom": "2024-12-19 00:45:30 +0000",
       "minecraft:husk": "2024-12-16 21:41:08 +0000",
       "minecraft:enderman": "2024-12-16 23:24:00 +0000",
       "minecraft:zombie": "2024-12-16 21:46:06 +0000"
@@ -3539,6 +3540,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-16 23:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 23:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-16 23:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 23:49:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-12-17 00:01:58 +0000"
@@ -3551,15 +3576,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_logs": "2024-12-16 23:48:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-16 23:48:15 +0000"
+      "has_redstone_block": "2024-12-17 00:03:01 +0000"
     },
     "done": true
   },
@@ -3581,33 +3600,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-12-17 00:03:01 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2024-12-17 00:04:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-16 23:49:07 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2024-12-17 00:04:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-16 23:49:07 +0000"
     },
     "done": true
   },
