@@ -15275,3 +15275,88 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [19Dec2024 06:02:46.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 06:02:46.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 06:04:17.318] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[19Dec2024 06:07:29.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3936, y=64, z=-3441} BlockPos{x=3935, y=63, z=-3441}
+[19Dec2024 06:07:46.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 06:07:46.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 06:09:44.841] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=4585, y=65, z=-3235}
+[19Dec2024 06:09:44.842] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[19Dec2024 06:09:44.842] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
+[19Dec2024 06:09:44.842] [Worker-Main-2/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOJOJOOP0+vXb9pJ8hJOePfS
+[19Dec2024 06:11:05.509] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=31, z=-311}
+[19Dec2024 06:11:05.511] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=26, z=-311}
+[19Dec2024 06:11:05.540] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=31, z=-315}
+[19Dec2024 06:11:05.540] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=35, z=-314}
+[19Dec2024 06:11:21.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1HUY has made the advancement [My Name is Nobody]
+[19Dec2024 06:11:42.200] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=26, z=-308}
+[19Dec2024 06:11:42.201] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-306}
+[19Dec2024 06:11:42.201] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=31, z=-306}
+[19Dec2024 06:11:42.201] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=30, z=-306}
+[19Dec2024 06:11:42.202] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=35, z=-308}
+[19Dec2024 06:11:42.202] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-344, y=26, z=-300}
+[19Dec2024 06:11:50.932] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=31, z=-358}
+[19Dec2024 06:11:50.933] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=36, z=-361}
+[19Dec2024 06:11:50.939] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
+[19Dec2024 06:11:50.968] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
+[19Dec2024 06:11:51.456] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[19Dec2024 06:11:51.456] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[19Dec2024 06:11:51.646] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[19Dec2024 06:12:46.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 06:12:46.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 06:12:59.503] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[19Dec2024 06:13:06.027] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[19Dec2024 06:13:06.033] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[19Dec2024 06:13:06.062] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[19Dec2024 06:13:06.078] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[19Dec2024 06:13:06.081] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[19Dec2024 06:13:06.092] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[19Dec2024 06:13:06.096] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[19Dec2024 06:13:06.103] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[19Dec2024 06:13:06.106] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_0
+[19Dec2024 06:13:06.107] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_2
+[19Dec2024 06:14:32.727] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[19Dec2024 06:15:09.727] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[19Dec2024 06:15:28.984] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[19Dec2024 06:15:29.002] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[19Dec2024 06:16:12.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soy_Chetos230 was energized by Lightning Dragon
+[19Dec2024 06:16:12.041] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(3977, 66, -4350) minecraft:overworld
+[19Dec2024 06:16:13.389] [Server thread/DEBUG] [twilightforest/]: Player Soy_Chetos230 (a6753878-5e20-366c-a0c3-c52d45bc3a28) respawned and received items held in storage
+[19Dec2024 06:16:19.475] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_1 is being run through DFU (hash a1483b8f75e150ae19b7d93a82a12b57e707fc5ffe525b2134a341d967d91b56), this will cause launch time delays
+[19Dec2024 06:16:19.475] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[19Dec2024 06:16:20.241] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_3 is being run through DFU (hash 4a7d454dfed90309aabf16a32b78c879d63c99efdddf37b4ce06267dc2a79047), this will cause launch time delays
+[19Dec2024 06:16:20.271] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_2 is being run through DFU (hash 2445d4f294b23c401119622c9de2a97f3ea54b9d66f5562660d5fb3ea715d4c5), this will cause launch time delays
+[19Dec2024 06:16:20.285] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_0 is being run through DFU (hash 2cd1bc01e2ef5b512bceb248b598da38d174fe273c20004578927c9480c55468), this will cause launch time delays
+[19Dec2024 06:16:20.300] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_3 is being run through DFU (hash 9be7dc68dca9b93ac37c1224d077f55016a289e6e177eb7fcbafb1b0be4732eb), this will cause launch time delays
+[19Dec2024 06:16:20.307] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0 is being run through DFU (hash ec681d08a0afabe245754b4760984520048ae6720cb4bfb9e9d492f8d01c2884), this will cause launch time delays
+[19Dec2024 06:16:20.432] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0 is being run through DFU (hash 4531e4a1c231841a0733a93ca24c388ab8751ebc7ca192aa3cf71507ae06c44a), this will cause launch time delays
+[19Dec2024 06:16:20.440] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_1 is being run through DFU (hash 4fe802a26cac59fd677ec3da19df08f21372ca7ac1ec323283c274d63ce93343), this will cause launch time delays
+[19Dec2024 06:16:20.454] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_2 is being run through DFU (hash 5dcdc15ff909e031ef282fcfbfcf1b272000f6f5b07a68ec1c1d53ce15a9501e), this will cause launch time delays
+[19Dec2024 06:16:20.466] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_0 is being run through DFU (hash 2fd728543984020d4f1d04343ff9e30e35f5e4f813f2f41d3f27bccd6d2dd45f), this will cause launch time delays
+[19Dec2024 06:16:33.546] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[19Dec2024 06:16:33.547] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[19Dec2024 06:16:36.590] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=35, z=-533}
+[19Dec2024 06:16:36.590] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=36, z=-533}
+[19Dec2024 06:16:36.746] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[19Dec2024 06:16:36.747] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[19Dec2024 06:16:38.155] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
+[19Dec2024 06:16:38.155] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
+[19Dec2024 06:16:38.155] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
+[19Dec2024 06:16:38.156] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
+[19Dec2024 06:16:38.156] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
+[19Dec2024 06:16:38.156] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
+[19Dec2024 06:16:38.156] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
+[19Dec2024 06:16:38.157] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
+[19Dec2024 06:16:38.157] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
+[19Dec2024 06:16:38.157] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
+[19Dec2024 06:16:38.157] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
+[19Dec2024 06:16:38.158] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
+[19Dec2024 06:16:38.158] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
+[19Dec2024 06:16:38.158] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
+[19Dec2024 06:16:38.158] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
+[19Dec2024 06:16:38.159] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
+[19Dec2024 06:16:38.159] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
+[19Dec2024 06:16:39.344] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[19Dec2024 06:16:39.344] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[19Dec2024 06:16:39.344] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[19Dec2024 06:16:39.639] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[19Dec2024 06:16:39.640] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[19Dec2024 06:16:39.640] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
